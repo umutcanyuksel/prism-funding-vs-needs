@@ -1,0 +1,39 @@
+model,variable,label,coef,se,p,pct_effect_dummy,n,donors,recipients
+"A. Needs and ties, donor-year effects",lpin,log people in need,0.11881097851524813,0.25266433564392055,0.6381889273141793,,4870,42,35
+"A. Needs and ties, donor-year effects",sev,INFORM Severity,1.4455500397528005,0.31483630672400015,4.402114139115413e-06,,4870,42,35
+"A. Needs and ties, donor-year effects",colony,former colonial power (CEPII),0.2780621370429864,0.20033997015549193,0.1651518522368447,0.32056825086595375,4870,42,35
+"A. Needs and ties, donor-year effects",ldist,"log distance (CEPII, population-weighted)",-0.8055311725226614,0.1440992075188748,2.2691899565418093e-08,,4870,42,35
+"A. Needs and ties, donor-year effects",comlang,common official language,0.5109324283453253,0.13921459781768786,0.00024244924315689368,0.6668446838052446,4870,42,35
+"A. Needs and ties, donor-year effects",contig,shared border,2.069232639883211,0.36865560101979195,1.989460677130233e-08,6.918744257292105,4870,42,35
+"B. Ties, donor-year and recipient-year effects (all governments)",colony,former colonial power (CEPII),0.37188447978931455,0.20787766307179725,0.07362152449996649,0.4504654135444497,4936,42,37
+"B. Ties, donor-year and recipient-year effects (all governments)",ldist,"log distance (CEPII, population-weighted)",-0.667659673055283,0.0864565169660846,1.140779884463001e-14,,4936,42,37
+"B. Ties, donor-year and recipient-year effects (all governments)",comlang,common official language,0.6042790099180817,0.16139405541684182,0.00018102578842702652,0.8299323700582018,4936,42,37
+"B. Ties, donor-year and recipient-year effects (all governments)",contig,shared border,2.5855619166883446,0.35890551815866983,5.846351952341378e-13,12.27074404778648,4936,42,37
+C. Colonial relationship after 1945 only,col45,colonial relationship after 1945 (CEPII),-0.056740207132063895,0.2550562182689468,0.8239545852666529,-0.05516049995197059,4936,42,37
+C. Colonial relationship after 1945 only,ldist,"log distance (CEPII, population-weighted)",-0.6584910763821382,0.08872308150183236,1.1547912038018245e-13,,4936,42,37
+C. Colonial relationship after 1945 only,comlang,common official language,0.627149024017551,0.16148582561115984,0.00010291416786159519,0.8722651800215424,4936,42,37
+C. Colonial relationship after 1945 only,contig,shared border,2.583410398501937,0.3572961849731863,4.814140872280158e-13,12.242222493943666,4936,42,37
+"D. Asylum applications, European donors (EU and EFTA governments, European Commission; the UK has no Eurostat data after 2020)",lasy,log first-time asylum applicants from the recipient in the donor country,0.14295378057612484,0.03934367637732031,0.00027964288946152703,,2911,25,37
+"D. Asylum applications, European donors (EU and EFTA governments, European Commission; the UK has no Eurostat data after 2020)",colony,former colonial power (CEPII),0.4964796378670822,0.1594539598836346,0.0018480498680867067,0.6429273790530137,2911,25,37
+"D. Asylum applications, European donors (EU and EFTA governments, European Commission; the UK has no Eurostat data after 2020)",ldist,"log distance (CEPII, population-weighted)",-0.13908630395084134,0.27169252562962376,0.6087032230678135,,2911,25,37
+"D. Asylum applications, European donors (EU and EFTA governments, European Commission; the UK has no Eurostat data after 2020)",comlang,common official language,0.04427956417742402,0.1455322128843661,0.7609301670191675,0.04527453536060455,2911,25,37
+"D. Asylum applications, European donors (EU and EFTA governments, European Commission; the UK has no Eurostat data after 2020)",contig,shared border,3.4212941353007484,0.4848242605010325,1.7041522295131092e-12,29.6090015898153,2911,25,37
+"E. Asylum applications in the previous year, European donors",lasy_lag,"log first-time asylum applicants, previous year",0.11843959929249023,0.037208377767644095,0.0014568548102853137,,1941,20,32
+"E. Asylum applications in the previous year, European donors",colony,former colonial power (CEPII),0.4956214689148659,0.16081855336699183,0.002057063976132031,0.6415180745827254,1941,20,32
+"E. Asylum applications in the previous year, European donors",ldist,"log distance (CEPII, population-weighted)",-0.055807716117342615,0.23029143433242338,0.8085204565565365,,1941,20,32
+"E. Asylum applications in the previous year, European donors",comlang,common official language,0.029783108220770467,0.1451526505502315,0.8374277949780904,0.03023106107182394,1941,20,32
+"E. Asylum applications in the previous year, European donors",contig,shared border,4.530210776568598,0.4667541968170229,2.849054439341647e-22,91.77811447395075,1941,20,32
+"F. As D, CEPII colony variable only",lasy,log first-time asylum applicants from the recipient in the donor country,0.14198109989582128,0.03945052854337246,0.0003194852943284388,,2911,25,37
+"F. As D, CEPII colony variable only",colony,former colonial power (CEPII),0.41578603079221155,0.1649278190610238,0.011701580511503617,0.5155615506704005,2911,25,37
+"G. As D, without FRA",lasy,log first-time asylum applicants from the recipient in the donor country,0.14035831170866986,0.03936244257465556,0.0003627579906637054,,2762,24,37
+"G. As D, without FRA",colony,former colonial power (CEPII),0.8036801609957647,0.3177328281244923,0.011425081616436567,1.2337463668181043,2762,24,37
+"G. As D, without ESP",lasy,log first-time asylum applicants from the recipient in the donor country,0.12928679403424775,0.041146096696222705,0.0016771785133168247,,2762,24,37
+"G. As D, without ESP",colony,former colonial power (CEPII),0.3846664585242362,0.15551509606423783,0.013379712095736494,0.46912422584971414,2762,24,37
+"G. As D, without ITA",lasy,log first-time asylum applicants from the recipient in the donor country,0.14584445693932366,0.043358277781023094,0.000769036902358428,,2762,24,37
+"G. As D, without ITA",colony,former colonial power (CEPII),0.5584583194810361,0.16066464909871653,0.0005090940571611869,0.7479756020192372,2762,24,37
+"G. As D, without BEL",lasy,log first-time asylum applicants from the recipient in the donor country,0.14016169100292958,0.04163412015044792,0.0007612576122705964,,2762,24,37
+"G. As D, without BEL",colony,former colonial power (CEPII),0.4420358611106965,0.15882261724033314,0.005382482842503651,0.5558715347150152,2762,24,37
+"G. As D, without DEU",lasy,log first-time asylum applicants from the recipient in the donor country,0.1003583377395022,0.02042984768547503,8.999627107766532e-07,,2762,24,37
+"G. As D, without DEU",colony,former colonial power (CEPII),0.5951001144451595,0.149209782191861,6.653580560209232e-05,0.8132124646334873,2762,24,37
+"G. As D, without PRT",lasy,log first-time asylum applicants from the recipient in the donor country,0.1403145013288314,0.0393156467133544,0.00035845225203573553,,2792,24,37
+"G. As D, without PRT",colony,former colonial power (CEPII),0.4878326532990539,0.16068681998812456,0.0023980138376723933,0.6287822558272727,2792,24,37

@@ -1,0 +1,89 @@
+Government donors with no ISO3 match (left out): []
+Donor-recipient-years: 5313; donors: 47; recipients: 38; years 2021-2025; colonial pairs: 42
+Colonial pairs in the sample: [('BEL', 'BDI'), ('BEL', 'COD'), ('DEU', 'BDI'), ('ESP', 'COL'), ('ESP', 'GTM'), ('ESP', 'HND'), ('ESP', 'HTI'), ('ESP', 'SLV'), ('ESP', 'VEN'), ('FRA', 'BFA'), ('FRA', 'CAF'), ('FRA', 'CMR'), ('FRA', 'GRD'), ('FRA', 'HTI'), ('FRA', 'LBN'), ('FRA', 'MDG'), ('FRA', 'MLI'), ('FRA', 'NER'), ('FRA', 'SYR'), ('FRA', 'TCD'), ('GBR', 'AFG'), ('GBR', 'GRD'), ('GBR', 'IRQ'), ('GBR', 'KEN'), ('GBR', 'MMR'), ('GBR', 'MWI'), ('GBR', 'NGA'), ('GBR', 'PAK'), ('GBR', 'PSE'), ('GBR', 'SDN'), ('GBR', 'SOM'), ('GBR', 'SSD'), ('GBR', 'VCT'), ('GBR', 'YEM'), ('GBR', 'ZMB'), ('GBR', 'ZWE'), ('IND', 'MMR'), ('ITA', 'ETH'), ('ITA', 'LBY'), ('ITA', 'SOM'), ('PRT', 'MOZ'), ('RUS', 'UKR')]
+
+### A. Needs and ties, donor-year effects
+PPML, N=4870 donor-recipient-years, donors=42, recipients=35, flows>0=2998
+                                            coef     se      p  pct_effect
+log people in need                         0.119  0.253  0.638         NaN
+INFORM Severity                            1.446  0.315  0.000         NaN
+former colonial power (CEPII)              0.278  0.200  0.165       0.321
+log distance (CEPII, population-weighted) -0.806  0.144  0.000         NaN
+common official language                   0.511  0.139  0.000       0.667
+shared border                              2.069  0.369  0.000       6.919
+
+### B. Ties, donor-year and recipient-year effects (all governments)
+PPML, N=4936 donor-recipient-years, donors=42, recipients=37, flows>0=3010
+                                            coef     se      p  pct_effect
+former colonial power (CEPII)              0.372  0.208  0.074       0.450
+log distance (CEPII, population-weighted) -0.668  0.086  0.000         NaN
+common official language                   0.604  0.161  0.000       0.830
+shared border                              2.586  0.359  0.000      12.271
+
+### C. Colonial relationship after 1945 only
+PPML, N=4936 donor-recipient-years, donors=42, recipients=37, flows>0=3010
+                                            coef     se      p  pct_effect
+colonial relationship after 1945 (CEPII)  -0.057  0.255  0.824      -0.055
+log distance (CEPII, population-weighted) -0.658  0.089  0.000         NaN
+common official language                   0.627  0.161  0.000       0.872
+shared border                              2.583  0.357  0.000      12.242
+
+### D. Asylum applications, European donors (EU and EFTA governments, European Commission; the UK has no Eurostat data after 2020)
+PPML, N=2911 donor-recipient-years, donors=25, recipients=37, flows>0=1843
+                                                                           coef     se      p  pct_effect
+log first-time asylum applicants from the recipient in the donor country  0.143  0.039  0.000         NaN
+former colonial power (CEPII)                                             0.496  0.159  0.002       0.643
+log distance (CEPII, population-weighted)                                -0.139  0.272  0.609         NaN
+common official language                                                  0.044  0.146  0.761       0.045
+shared border                                                             3.421  0.485  0.000      29.609
+
+### E. Asylum applications in the previous year, European donors
+PPML, N=1941 donor-recipient-years, donors=20, recipients=32, flows>0=1342
+                                                  coef     se      p  pct_effect
+log first-time asylum applicants, previous year  0.118  0.037  0.001         NaN
+former colonial power (CEPII)                    0.496  0.161  0.002       0.642
+log distance (CEPII, population-weighted)       -0.056  0.230  0.809         NaN
+common official language                         0.030  0.145  0.837       0.030
+shared border                                    4.530  0.467  0.000      91.778
+
+### F. As D, CEPII colony variable only
+PPML, N=2911 donor-recipient-years, donors=25, recipients=37, flows>0=1843
+                                                                           coef     se      p  pct_effect
+log first-time asylum applicants from the recipient in the donor country  0.142  0.039  0.000         NaN
+former colonial power (CEPII)                                             0.416  0.165  0.012       0.516
+
+### G. As D, without FRA
+PPML, N=2762 donor-recipient-years, donors=24, recipients=37, flows>0=1709
+                                                                           coef     se      p  pct_effect
+log first-time asylum applicants from the recipient in the donor country  0.140  0.039  0.000         NaN
+former colonial power (CEPII)                                             0.804  0.318  0.011       1.234
+
+### G. As D, without ESP
+PPML, N=2762 donor-recipient-years, donors=24, recipients=37, flows>0=1733
+                                                                           coef     se      p  pct_effect
+log first-time asylum applicants from the recipient in the donor country  0.129  0.041  0.002         NaN
+former colonial power (CEPII)                                             0.385  0.156  0.013       0.469
+
+### G. As D, without ITA
+PPML, N=2762 donor-recipient-years, donors=24, recipients=37, flows>0=1743
+                                                                           coef     se      p  pct_effect
+log first-time asylum applicants from the recipient in the donor country  0.146  0.043  0.001         NaN
+former colonial power (CEPII)                                             0.558  0.161  0.001       0.748
+
+### G. As D, without BEL
+PPML, N=2762 donor-recipient-years, donors=24, recipients=37, flows>0=1779
+                                                                           coef     se      p  pct_effect
+log first-time asylum applicants from the recipient in the donor country  0.140  0.042  0.001         NaN
+former colonial power (CEPII)                                             0.442  0.159  0.005       0.556
+
+### G. As D, without DEU
+PPML, N=2762 donor-recipient-years, donors=24, recipients=37, flows>0=1704
+                                                                           coef     se    p  pct_effect
+log first-time asylum applicants from the recipient in the donor country  0.100  0.020  0.0         NaN
+former colonial power (CEPII)                                             0.595  0.149  0.0       0.813
+
+### G. As D, without PRT
+PPML, N=2792 donor-recipient-years, donors=24, recipients=37, flows>0=1807
+                                                                           coef     se      p  pct_effect
+log first-time asylum applicants from the recipient in the donor country  0.140  0.039  0.000         NaN
+former colonial power (CEPII)                                             0.488  0.161  0.002       0.629

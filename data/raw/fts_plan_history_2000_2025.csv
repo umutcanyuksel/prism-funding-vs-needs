@@ -1,0 +1,1397 @@
+year,plan_id,plan_code,plan_name,iso3,n_countries
+2000,49,CAGO00,Angola 2000,AGO,1
+2000,50,CBDI00,Burundi 2000,BDI,1
+2000,51,CCOD00,Democratic Republic of the Congo 2000,COD,1
+2000,58,CSLE00,Sierra Leone 2000,SLE,1
+2000,57,CCOG00,Republic of Congo 2000,COG,1
+2000,59,CSOM00,Somalia 2000,SOM,1
+2000,60,CSDN00,Sudan 2000,SDN,1
+2000,62,CRUS9900,Northern Caucasus (Russian Federation) Consolidated Inter Agency Appeal 2000,RUS,1
+2000,63,CTJK00,Tajikistan 2000,TJK,1
+2000,64,CPRK00,DPR of Korea 2000,PRK,1
+2000,65,CTLS9900,East Timor Consolidated Inter Agency Appeal 2000,TLS,1
+2000,61,CUGA00,Uganda 2000,UGA,1
+2000,66,CIDN00,Maluku Crisis 2000,IDN,1
+2000,68,CIDN9900,West Timor (Indonesia) Consolidated Inter Agency Appeal 2000,IDN,1
+2000,69,CTZA00,Tanzania (United Republic of) 2000,TZA,1
+2001,34,CAGO01,Angola 2001,AGO,1
+2001,36,CPRK01,DPR of Korea 2001,PRK,1
+2001,37,CRUS01,Northern Caucasus (Russian Federation) 2001,RUS,1
+2001,38,CSLE01,Sierra Leone 2001,SLE,1
+2001,39,CBDI01,Burundi 2001,BDI,1
+2001,40,CCOD01,Democratic Republic of the Congo 2001,COD,1
+2001,42,CCOG01,Republic of Congo 2001,COG,1
+2001,43,CTZA01,Tanzania (United Republic of) 2001,TZA,1
+2001,44,CUGA01,Uganda 2001,UGA,1
+2001,45,CTJK01,Tajikistan 2001,TJK,1
+2001,46,CSDN01,Sudan 2001,SDN,1
+2001,47,CIDN01,Maluku Crisis 2001,IDN,1
+2001,53,CSOM01,Somalia 2001,SOM,1
+2001,54,CETH01,Ethiopia 2001,ETH,1
+2001,55,CERI01,Eritrea 2001,ERI,1
+2001,70,CAFG01,Afghanistan 2001,AFG,1
+2001,71,OKEN01,Kenya Drought 2001,KEN,1
+2001,72,ODJI01,Djibouti Drought 2001,DJI,1
+2001,73,OTZA01,Tanzania (United Republic of) Drought 2001,TZA,1
+2002,74,CSDN02,Sudan 2002,SDN,1
+2002,75,CERI02,Eritrea 2002,ERI,1
+2002,76,CTJK02,Tajikistan 2002,TJK,1
+2002,77,CUGA02,Uganda 2002,UGA,1
+2002,78,CSOM02,Somalia 2002,SOM,1
+2002,79,CSLE02,Sierra Leone 2002,SLE,1
+2002,80,CLBR02,Liberia 2002,LBR,1
+2002,81,CGIN02,Guinea 2002,GIN,1
+2002,82,CPRK02,DPR of Korea 2002,PRK,1
+2002,83,CRUS02,North Caucasus 2002,RUS,1
+2002,85,CIDN02,Indonesia 2002,IDN,1
+2002,87,CBDI02,Burundi 2002,BDI,1
+2002,88,CCOD02,Democratic Republic of the Congo 2002,COD,1
+2002,89,CAGO02,Angola 2002,AGO,1
+2002,91,OCOG02,Republic of Congo 2002,COG,1
+2002,92,CAFG0102,Afghanistan 2002 (ITAP for the Afghan People),AFG,1
+2002,93,OKEN02,Kenya Drought Donor Alert 2002,KEN,1
+2002,94,OIDN02,Joint Appeal - Solutions for East Timorese Refugees,IDN,1
+2002,95,CMWI0203,Humanitarian Crisis in Southern Africa 2002 - MALAWI,MWI,1
+2002,96,CSWZ0203,Humanitarian Crisis in Southern Africa 2002 - SWAZILAND,SWZ,1
+2002,97,CLSO0203,Humanitarian Crisis in Southern Africa 2002 - LESOTHO,LSO,1
+2002,99,CZMB0203,Humanitarian Crisis in Southern Africa 2002 - ZAMBIA,ZMB,1
+2002,101,OLKA02,Joint Strategy - Returned IDPs in Sri Lanka 2002,LKA,1
+2002,98,CZWE0203,Humanitarian Crisis in Southern Africa 2002 - ZIMBABWE,ZWE,1
+2003,102,CPRK03,DPR of Korea 2003,PRK,1
+2003,103,CTJK03,Tajikistan 2003,TJK,1
+2003,104,CUGA03,Uganda 2003,UGA,1
+2003,105,CSLE03,Sierra Leone 2003,SLE,1
+2003,107,CBDI03,Burundi 2003,BDI,1
+2003,108,CIDN03,Indonesia 2003,IDN,1
+2003,109,CLBR03,Liberia 2003,LBR,1
+2003,110,CERI03,Eritrea 2003,ERI,1
+2003,111,CSOM03,Somalia 2003,SOM,1
+2003,112,CSDN03,Sudan 2003,SDN,1
+2003,113,CCOD03,Democratic Republic of the Congo 2003,COD,1
+2003,114,CRUS03,Chechnya and Neighbouring Republics (RF) 2003,RUS,1
+2003,115,OCOG03,Republic of Congo 2003,COG,1
+2003,116,CGIN03,Guinea 2003,GIN,1
+2003,117,CAGO03,Angola 2003,AGO,1
+2003,118,CPSE03,occupied Palestinian territory 2003,PSE,1
+2003,119,RCIV0203,Côte d'Ivoire and the West Africa Sub-Region 2002-2003 ,CIV,1
+2003,120,OCOL03,Colombia (HAP) 2003,COL,1
+2003,121,OAFG03,Afghanistan TAPA 2003,AFG,1
+2003,122,FIRQ03,Iraq Crisis 2003,IRQ,1
+2003,123,RCIV03,Cote d'Ivoire + 5 2003,CIV,1
+2003,124,FCAF03,Central African Republic  2003,CAF,1
+2003,125,OHTI03,Haiti (PIR) 2003,HTI,1
+2003,126,CLSO0304,Humanitarian Crisis in Southern Africa - LESOTHO (July 2003 - June 2004),LSO,1
+2003,130,CZMB0304,Humanitarian Crisis in Southern Africa - ZAMBIA (July 2003 - June 2004),ZMB,1
+2003,127,CMWI03,Humanitarian Crisis in Southern Africa - MALAWI (July 2003 - June 2004),MWI,1
+2003,129,CMOZ0304,Humanitarian Crisis in Southern Africa - MOZAMBIQUE (July 2003 - June 2004),MOZ,1
+2003,128,CSWZ0304,Humanitarian Crisis in Southern Africa - SWAZILAND (July 2003 - June 2004),SWZ,1
+2003,132,CZWE03,Humanitarian Crisis in Southern Africa - ZIMBABWE (July - December 2003),ZWE,1
+2004,133,CTJK04,Tajikistan 2004,TJK,1
+2004,134,CRUS04,Chechnya and Neighbouring Republics (RF) 2004,RUS,1
+2004,135,CTZA04,Tanzania (United Republic of) 2004,TZA,1
+2004,136,CPRK04,DPR of Korea 2004,PRK,1
+2004,137,CUGA04,Uganda 2004,UGA,1
+2004,138,CSLE04,Sierra Leone 2004,SLE,1
+2004,139,CIDN04,Indonesia 2004 ,IDN,1
+2004,142,CBDI04,Burundi 2004,BDI,1
+2004,141,CSDN04,Sudan 2004,SDN,1
+2004,140,CGIN04,Guinea 2004,GIN,1
+2004,148,CERI04,Eritrea 2004,ERI,1
+2004,146,CPSE04,occupied Palestinian territory 2004,PSE,1
+2004,145,CLBR04,Liberia 2004,LBR,1
+2004,144,CCOD04,Democratic Republic of the Congo 2004,COD,1
+2004,149,CSOM04,Somalia 2004,SOM,1
+2004,151,CAGO04,Angola 2004,AGO,1
+2004,152,CCAF04,Central African Republic 2004,CAF,1
+2004,153,FIRN04,Islamic Republic of Iran 2004 ,IRN,1
+2004,154,CTCD04,Chad 2004,TCD,1
+2004,159,FGRD0405,Grenada  2004,GRD,1
+2004,157,FKEN04,Kenya  2004,KEN,1
+2004,160,FHTI0405,Haiti Floods  2004,HTI,1
+2004,176,OAFG04,Afghanistan UN-Government Drought Appeal 2004,AFG,1
+2004,177,FBOL0405,Bolivia  2004,BOL,1
+2004,179,FPHL0405,Philippines  2004,PHL,1
+2004,175,CZWE04,Zimbabwe 2004,ZWE,1
+2004,155,FHTI04,Haiti  2004,HTI,1
+2004,158,FBGD0405,Bangladesh  2004,BGD,1
+2004,156,FMDG04,Madagascar  2004,MDG,1
+2005,162,CCIV05,Cote d'Ivoire 2005,CIV,1
+2005,163,CCOD05,Democratic Republic of the Congo 2005,COD,1
+2005,165,CSOM05,Somalia 2005,SOM,1
+2005,167,CUGA05,Uganda 2005,UGA,1
+2005,166,CERI05,Eritrea 2005,ERI,1
+2005,168,CPSE05,occupied Palestinian territory 2005,PSE,1
+2005,169,CRUS05,Chechnya and Neighbouring Republics (RF) 2005,RUS,1
+2005,170,CTCD05,Chad 2005,TCD,1
+2005,171,CGIN05,Guinea 2005,GIN,1
+2005,172,CBDI05,Burundi 2005,BDI,1
+2005,173,CCAF05,Central African Republic 2005,CAF,1
+2005,174,CCOG05,Republic of Congo 2005,COG,1
+2005,178,OSDN05,Sudan - Humanitarian & Recovery Components of the 2005 Work Plan,SDN,1
+2005,181,FGUY05,Guyana  2005,GUY,1
+2005,182,FAGO05,Angola Marburg VHF  2005,AGO,1
+2005,183,FDJI05,Djibouti Drought  2005,DJI,1
+2005,184,FBEN05,Benin  2005,BEN,1
+2005,185,FNER05,Niger  2005,NER,1
+2005,186,FMWI0506,Malawi  2005,MWI,1
+2005,188,FGTM0506,Guatemala  2005,GTM,1
+2005,194,OSLV05,El Salvador Joint UN Agency Appeal 2005,SLV,1
+2006,193,CCOG06,Republic of Congo 2006,COG,1
+2006,190,RBFAGNBMLIMRTNERSENTGO06,West Africa 2006,BFA,7
+2006,190,RBFAGNBMLIMRTNERSENTGO06,West Africa 2006,GNB,7
+2006,190,RBFAGNBMLIMRTNERSENTGO06,West Africa 2006,MLI,7
+2006,190,RBFAGNBMLIMRTNERSENTGO06,West Africa 2006,MRT,7
+2006,190,RBFAGNBMLIMRTNERSENTGO06,West Africa 2006,NER,7
+2006,190,RBFAGNBMLIMRTNERSENTGO06,West Africa 2006,SEN,7
+2006,190,RBFAGNBMLIMRTNERSENTGO06,West Africa 2006,TGO,7
+2006,192,CCIV06,Cote d'Ivoire 2006,CIV,1
+2006,187,CNPL0506,Nepal 2005-2006,NPL,1
+2006,191,CGIN06,Guinea 2006,GIN,1
+2006,195,CBDI06,Burundi 2006,BDI,1
+2006,200,CLBR06,Liberia 2006,LBR,1
+2006,198,CUGA06,Uganda 2006,UGA,1
+2006,199,CPSE06,occupied Palestinian territory 2006,PSE,1
+2006,197,CSOM06,Somalia 2006,SOM,1
+2006,201,CCAF06,Central African Republic 2006,CAF,1
+2006,207,ORUS06,North Caucasus Transitional Workplan 2006,RUS,1
+2006,205,CSDN06,Sudan Work Plan 2006 (Humanitarian Action component),SDN,1
+2006,208,CXHAF06,Horn of Africa 2006 ,DJI,3
+2006,208,CXHAF06,Horn of Africa 2006 ,ERI,3
+2006,208,CXHAF06,Horn of Africa 2006 ,KEN,3
+2006,204,CTCD06,Chad 2006,TCD,1
+2006,210,FGNB06,Guinea-Bissau 2006 ,GNB,1
+2006,203,CZWE06,Zimbabwe 2006,ZWE,1
+2006,212,FTLS06,Timor-Leste 2006,TLS,1
+2006,213,OAFG06,Afghanistan Drought Joint Appeal 2006,AFG,1
+2006,211,FIDN06,Indonesia Earthquake Response Plan 2006,IDN,1
+2006,209,OETH06,Ethiopia 2006 Humanitarian Appeal (Joint Govt-NGO-UN),ETH,1
+2006,214,FLBN06,Lebanon Crisis 2006,LBN,1
+2006,206,CCOD06,Democratic Republic of the Congo Action Plan 2006,COD,1
+2006,218,FKEN0607,Kenya 2006,KEN,1
+2006,234,FKEN06,Kenya: 2006 November Floods,KEN,1
+2006,235,FSOM0607,Somalia: 2006 Flood Response Plan,SOM,1
+2006,215,OLKA06,Sri Lanka Common Humanitarian Action Plan 2006,LKA,1
+2006,216,OETH06a,Ethiopia Floods Joint Appeal 2006,ETH,1
+2006,217,OTJK06,Tajikistan Earthquake 2006,TJK,1
+2006,236,OPHL0607,Philippines 2006 Typhoon Appeal,PHL,1
+2006,233,OETH0607,Ethiopia: 2006 Govt-UN Joint Emergency Flood Appeal for Somali Region,ETH,1
+2007,220,CZWE07,Zimbabwe 2007,ZWE,1
+2007,219,CCOG07,Republic of Congo 2007,COG,1
+2007,221,CSOM07,Somalia 2007,SOM,1
+2007,222,RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07,West Africa 2007,BEN,14
+2007,222,RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07,West Africa 2007,BFA,14
+2007,222,RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07,West Africa 2007,CIV,14
+2007,222,RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07,West Africa 2007,CPV,14
+2007,222,RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07,West Africa 2007,GHA,14
+2007,222,RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07,West Africa 2007,GIN,14
+2007,222,RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07,West Africa 2007,GNB,14
+2007,222,RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07,West Africa 2007,LBR,14
+2007,222,RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07,West Africa 2007,MLI,14
+2007,222,RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07,West Africa 2007,MRT,14
+2007,222,RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07,West Africa 2007,NER,14
+2007,222,RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07,West Africa 2007,SEN,14
+2007,222,RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07,West Africa 2007,SLE,14
+2007,222,RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07,West Africa 2007,TGO,14
+2007,223,CCIV07,Cote d'Ivoire 2007,CIV,1
+2007,224,CXGLR07,Great Lakes Region 2007,BDI,3
+2007,224,CXGLR07,Great Lakes Region 2007,RWA,3
+2007,224,CXGLR07,Great Lakes Region 2007,TZA,3
+2007,229,CSDN07,Sudan Work Plan 2007 (Humanitarian Action component) ,SDN,1
+2007,225,CBDI07,Burundi 2007,BDI,1
+2007,228,CPSE07,occupied Palestinian territory 2007,PSE,1
+2007,226,CCAF07,Central African Republic 2007,CAF,1
+2007,227,CTCD07,Chad 2007,TCD,1
+2007,230,CUGA07,Uganda 2007,UGA,1
+2007,232,CCOD07,Democratic Republic of the Congo 2007 Humanitarian Action Plan,COD,1
+2007,240,CLBR07,Liberia Common Humanitarian Action Plan 2007,LBR,1
+2007,242,FBOL07,Bolivia Flash Appeal 2007,BOL,1
+2007,243,FMOZ07,Mozambique Floods and Cyclone Flash Appeal 2007,MOZ,1
+2007,244,FMDG07,Madagascar Floods Flash Appeal 2007,MDG,1
+2007,231,ORUS07,North Caucasus Transitional Workplan 2007,RUS,1
+2007,239,CTLS07,Timor-Leste 2007,TLS,1
+2007,245,FZMB07,Zambia Floods Flash Appeal 2007,ZMB,1
+2007,248,FPAK07,Pakistan Cyclone and Floods Flash Appeal 2007,PAK,1
+2007,241,ONPL07,Nepal Common Appeal for Transition Support 2007,NPL,1
+2007,238,CLKA07,Sri Lanka Common Humanitarian Action Plan 2007,LKA,1
+2007,246,OLBN07,Lebanon Crisis Appeal 2007,LBN,1
+2007,249,FSWZ0708,Swaziland Drought Flash Appeal 2007,SWZ,1
+2007,253,FPRK07,Korea DPR Flash Appeal: Floods Emergency 2007,PRK,1
+2007,251,FPER0708,Peru Earthquake Flash Appeal 2007,PER,1
+2007,247,OSLB07,Solomon Islands Earthquake and Tsunami - UNICEF Appeal 2007,SLB,1
+2007,254,FNIC0708,Nicaragua Flash Appeal 2007,NIC,1
+2007,252,FSDN0708,Sudan Flash Appeal: Flood Response 2007,SDN,1
+2007,250,FLSO0708,Lesotho Drought Flash Appeal 2007,LSO,1
+2007,257,FGHA0708,Ghana Floods Flash Appeal 2007,GHA,1
+2007,258,FBFA0708,Burkina Faso Floods Flash Appeal 2007,BFA,1
+2007,265,FDOM0708,Dominican Republic Flash Appeal 2007,DOM,1
+2007,255,FUGA0708,Uganda Floods Flash Appeal 2007,UGA,1
+2007,256,OIRQ0708,Iraq Health Sector Appeal 2007: Meeting the Health Needs of Iraqis Displaced in Neighbouring Countries,IRQ,1
+2008,259,RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08,West Africa 2008,BEN,13
+2008,259,RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08,West Africa 2008,BFA,13
+2008,259,RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08,West Africa 2008,GHA,13
+2008,259,RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08,West Africa 2008,GIN,13
+2008,259,RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08,West Africa 2008,GMB,13
+2008,259,RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08,West Africa 2008,GNB,13
+2008,259,RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08,West Africa 2008,LBR,13
+2008,259,RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08,West Africa 2008,MLI,13
+2008,259,RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08,West Africa 2008,MRT,13
+2008,259,RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08,West Africa 2008,NER,13
+2008,259,RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08,West Africa 2008,SEN,13
+2008,259,RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08,West Africa 2008,SLE,13
+2008,259,RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08,West Africa 2008,TGO,13
+2008,260,CZWE08,Zimbabwe 2008,ZWE,1
+2008,261,CPSE08,occupied Palestinian territory 2008,PSE,1
+2008,262,CCIV08,Côte d'Ivoire 2008,CIV,1
+2008,264,CUGA08,Uganda 2008,UGA,1
+2008,266,CCAF08,Central African Republic 2008,CAF,1
+2008,267,CTCD08,Chad 2008,TCD,1
+2008,268,CCOD08,Democratic Republic of the Congo 2008 Humanitarian Action Plan,COD,1
+2008,269,CSDN08,Sudan Work Plan 2008 (Humanitarian/Early Recovery Component) ,SDN,1
+2008,270,ONPL08,Nepal Common Appeal for Transition Support 2008,NPL,1
+2008,271,FKEN08,Kenya Emergency Humanitarian Response Plan (Revised) 2008,KEN,1
+2008,272,OAFG08,Afghanistan Joint Appeal 2008: Humanitarian Consequences of Rise in Food Prices (February - June 2008),AFG,1
+2008,263,CSOM08,Somalia 2008,SOM,1
+2008,273,CIRQ08,Iraq 2008,IRQ,1
+2008,274,OLKA08,Sri Lanka Common Humanitarian Action Plan 2008,LKA,1
+2008,275,FMOZ08,Southern African Region Preparedness and Response Plan 2008 [unrevised as of Nov. 2008; appeal closed at 33% funding and unmet requirements reduced to zero] ,MOZ,1
+2008,276,FTJK08,Tajikistan Flash Appeal (Revised) 2008,TJK,1
+2008,278,FMDG08,Madagascar Flash Appeal 2008 [unrevised as of Nov. 2008; appeal closed at 50% funding and unmet requirements reduced to zero] ,MDG,1
+2008,279,OLBR08,Liberia Critical Humanitarian Gaps 2008,LBR,1
+2008,280,OTLS08,Timor-Leste - Transitional Strategy and Appeal 2008,TLS,1
+2008,281,FMMR08,Myanmar Flash Appeal (Revised) 2008,MMR,1
+2008,282,ODJI0809,"Djibouti Joint Appeal 2008: Response Plan for Drought, Food and Nutrition Crisis",DJI,1
+2008,283,OAFG0809,Afghanistan Joint Emergency Appeal 2008: High Food Price and Drought Crisis (July 2008 - June 2009),AFG,1
+2008,284,FGEO0809,Georgia Crisis Flash Appeal (Revised) 2008,GEO,1
+2008,286,FHTI0809,Haiti Flash Appeal (Revised) 2008,HTI,1
+2008,299,ONPL0809,Nepal Floods Humanitarian Response Plan 2008,NPL,1
+2008,300,OSYR0809,Syria Drought Appeal 2008,SYR,1
+2008,277,FBOL08,Bolivia Flash Appeal 2008 [unrevised as of Oct. 2008; appeal closed at 80% funding and unmet requirements reduced to zero],BOL,1
+2008,301,OLAO0809,Lao PDR Joint Appeal for Flood Recovery and Rehabilitation 2008,LAO,1
+2008,304,FHND0809,Honduras Flash Appeal (Updated) (November - April) 2008,HND,1
+2008,305,OCUB0809,Cuba Post-Hurricane Plan of Action 2008,CUB,1
+2008,306,FYEM0809,Yemen Floods Response Plan (November - April) 2008 [unrevised as of April 2008; appeal closed at 45% funding and unmet requirements reduced to zero] ,YEM,1
+2008,308,FKGZ0809,Kyrgyzstan Flash Appeal (Revised) 2008,KGZ,1
+2009,287,CUGA09,Uganda 2009,UGA,1
+2009,288,CSDN09,Sudan 2009,SDN,1
+2009,289,CCAF09,Central African Republic 2009,CAF,1
+2009,290,CPSE09,occupied Palestinian territory 2009,PSE,1
+2009,291,RIRQ09,Iraq and the region 2009,IRQ,1
+2009,292,ONPL09,Nepal Humanitarian Transition Appeal 2009,NPL,1
+2009,293,RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09,West Africa 2009,BEN,13
+2009,293,RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09,West Africa 2009,BFA,13
+2009,293,RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09,West Africa 2009,CIV,13
+2009,293,RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09,West Africa 2009,GHA,13
+2009,293,RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09,West Africa 2009,GIN,13
+2009,293,RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09,West Africa 2009,GNB,13
+2009,293,RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09,West Africa 2009,LBR,13
+2009,293,RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09,West Africa 2009,MLI,13
+2009,293,RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09,West Africa 2009,MRT,13
+2009,293,RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09,West Africa 2009,NER,13
+2009,293,RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09,West Africa 2009,SEN,13
+2009,293,RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09,West Africa 2009,SLE,13
+2009,293,RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09,West Africa 2009,TGO,13
+2009,294,CTCD09,Chad 2009,TCD,1
+2009,295,CZWE09,Zimbabwe 2009,ZWE,1
+2009,296,CSOM09,Somalia 2009,SOM,1
+2009,285,CPAK0809,Pakistan Humanitarian Response Plan (Revised) 2008-2009,PAK,1
+2009,297,CLKA09,Sri Lanka Common Humanitarian Action Plan 2009,LKA,1
+2009,298,OTJK0809,Tajikistan Humanitarian Food Security Appeal 2008-2009,TJK,1
+2009,302,CKEN09,Kenya Emergency Humanitarian Response Plan 2009,KEN,1
+2009,303,CCIV09,Côte d'Ivoire 2009,CIV,1
+2009,309,CCOD09,Democratic Republic of the Congo 2009,COD,1
+2009,310,FNAM09,Namibia Flash Appeal (Revised) (March - November 2009),NAM,1
+2009,307,CAFG09,Afghanistan Humanitarian Action Plan 2009,AFG,1
+2009,311,FMDG09,Madagascar Flash Appeal (Revised) (April - October 2009),MDG,1
+2009,312,OTJK09,Tajikistan Floods and Mudflows REACT Appeal 2009,TJK,1
+2009,313,OSYR0910,Syria Drought Response Plan (Revised) (July 2009 - June 2010),SYR,1
+2009,317,FYEM09,Yemen Flash Appeal (Revised) (September - December 2009),YEM,1
+2009,332,FPHL0910,Philippines Flash Appeal  (Revised) (October 2009 - March 2010),PHL,1
+2009,333,FIDN09,Indonesia West Sumatra Earthquake Humanitarian Response Plan 2009,IDN,1
+2009,334,FLAO0910,Lao PDR Flash Appeal (Revised) (October 2009 - April 2010),LAO,1
+2009,331,FBFA0910,Burkina Faso Flash Appeal (September 2009 - February 2010),BFA,1
+2010,314,CYEM10,Yemen Humanitarian Response Plan 2010,YEM,1
+2010,315,CTCD10,Chad 2010,TCD,1
+2010,316,CPSE10,occupied Palestinian territory 2010,PSE,1
+2010,318,CCAF10,Central African Republic 2010,CAF,1
+2010,319,CUGA10,Uganda 2010,UGA,1
+2010,321,CSDN10,Sudan 2010,SDN,1
+2010,322,CZWE10,Zimbabwe 2010,ZWE,1
+2010,323,RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10,West Africa 2010,BEN,14
+2010,323,RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10,West Africa 2010,BFA,14
+2010,323,RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10,West Africa 2010,CIV,14
+2010,323,RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10,West Africa 2010,GHA,14
+2010,323,RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10,West Africa 2010,GIN,14
+2010,323,RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10,West Africa 2010,GNB,14
+2010,323,RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10,West Africa 2010,LBR,14
+2010,323,RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10,West Africa 2010,MLI,14
+2010,323,RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10,West Africa 2010,MRT,14
+2010,323,RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10,West Africa 2010,NER,14
+2010,323,RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10,West Africa 2010,NGA,14
+2010,323,RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10,West Africa 2010,SEN,14
+2010,323,RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10,West Africa 2010,SLE,14
+2010,323,RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10,West Africa 2010,TGO,14
+2010,324,CCOD10,Democratic Republic of the Congo 2010,COD,1
+2010,325,CAFG10,Afghanistan Humanitarian Action Plan 2010,AFG,1
+2010,320,CSOM10,Somalia 2010,SOM,1
+2010,326,CKEN10,Kenya Emergency Humanitarian Response Plan 2010,KEN,1
+2010,327,ONPL10,Nepal Humanitarian Transition Appeal 2010,NPL,1
+2010,328,CLKA10,Sri Lanka Common Humanitarian Action Plan 2010,LKA,1
+2010,329,OXIRQREG10,Regional Response Plan for Iraqi Refugees 2010,IRQ,4
+2010,329,OXIRQREG10,Regional Response Plan for Iraqi Refugees 2010,JOR,4
+2010,329,OXIRQREG10,Regional Response Plan for Iraqi Refugees 2010,LBN,4
+2010,329,OXIRQREG10,Regional Response Plan for Iraqi Refugees 2010,SYR,4
+2010,330,CPAK10,Pakistan Humanitarian Response Plan (February - December 2010),PAK,1
+2010,335,FSLV0910,El Salvador Flash Appeal (Revised) (November 2009 - May 2010),SLV,1
+2010,337,FHTI10,Haiti Humanitarian Appeal (Revised) (January - December 2010),HTI,1
+2010,338,CGTM10,Guatemala Food Insecurity and Acute Malnutrition Appeal 2010,GTM,1
+2010,339,CCOG10,Republic of Congo 2010,COG,1
+2010,341,CIRQ10,Iraq Humanitarian Action Plan 2010,IRQ,1
+2010,343,FGTM10,Guatemala Flash Appeal (Revised) (June - December 2010),GTM,1
+2010,344,FKGZ1011,Kyrgyzstan Flash Appeal (Revised) (June 2010 - June 2011),KGZ,1
+2010,347,FPAK1011,Pakistan Floods Relief and Early Recovery Response Plan (Revised) (August 2010 - July 2011),PAK,1
+2010,351,OBFA1011,Burkina Faso Emergency Humanitarian Action Plan 2010,BFA,1
+2010,340,CMNG1011,Mongolia Dzud Appeal (April 2010 - May 2011),MNG,1
+2011,346,OPHL11,Mindanao Humanitarian Action Plan 2011,PHL,1
+2011,348,CPSE11,occupied Palestinian territory 2011,PSE,1
+2011,349,CDJI1011,Djibouti Drought Appeal 2011,DJI,1
+2011,350,CSDN1112,Sudan 2011,SDN,1
+2011,352,CXWAF11,West Africa 2011,CIV,2
+2011,352,CXWAF11,West Africa 2011,LBR,2
+2011,353,CKEN1113,2011+ Kenya Emergency Humanitarian Response Plan,KEN,1
+2011,354,CAFG11,Afghanistan 2011,AFG,1
+2011,355,CYEM11,Yemen Humanitarian Response Plan 2011,YEM,1
+2011,356,CZWE11,Zimbabwe 2011,ZWE,1
+2011,357,CTCD11,Chad 2011,TCD,1
+2011,358,CCOD1112,Democratic Republic of the Congo 2011,COD,1
+2011,359,CNER11,Niger 2011,NER,1
+2011,360,OLKA11,Sri Lanka Joint Plan of Assistance to the Northern Province (JPA) 2011,LKA,1
+2011,363,CSOM11,Somalia 2011,SOM,1
+2011,361,CCAF11,Central African Republic Consolidated Appeals Process 2011,CAF,1
+2011,362,CHTI1011,Haiti 2011,HTI,1
+2011,365,FXLBYREG11,Regional Flash Appeal for the Libyan Crisis (March - December 2011),EGY,4
+2011,365,FXLBYREG11,Regional Flash Appeal for the Libyan Crisis (March - December 2011),LBY,4
+2011,365,FXLBYREG11,Regional Flash Appeal for the Libyan Crisis (March - December 2011),NER,4
+2011,365,FXLBYREG11,Regional Flash Appeal for the Libyan Crisis (March - December 2011),TUN,4
+2011,364,FLKA11,Sri Lanka Floods Flash Appeal (Revised) (January - June 2011),LKA,1
+2011,366,FNAM11,Namibia Flash Appeal (April - October 2011),NAM,1
+2011,367,CSSD11,Republic of South Sudan 2011,SSD,1
+2011,387,FPAK1112,Pakistan Rapid Response Plan Floods 2011 (September - March 2012),PAK,1
+2011,369,OPRK11,Korea DPR : Overview of Needs and Assistance 2011,PRK,1
+2011,388,FSLV1112,El Salvador Flash Appeal (October 2011 - April 2012),SLV,1
+2011,390,FNIC1112,Nicaragua Flash Appeal (October 2011 - April 2012),NIC,1
+2012,374,CPSE12,occupied Palestinian territory 2012,PSE,1
+2012,373,CKEN12,2012+ Kenya Emergency Humanitarian Response Plan,KEN,1
+2012,372,CCAF12,Central African Republic 2012,CAF,1
+2012,375,CSOM12,Somalia 2012,SOM,1
+2012,378,CYEM12,Yemen Humanitarian Response Plan 2012,YEM,1
+2012,377,CSDN12,Sudan 2012,SDN,1
+2012,376,CSSD12,Republic of South Sudan 2012,SSD,1
+2012,379,CNER12,Niger 2012,NER,1
+2012,371,CTCD12,Chad 2012,TCD,1
+2012,370,CAFG1112,Afghanistan 2012,AFG,1
+2012,382,CPHL12,Philippines Humanitarian Action Plan 2012,PHL,1
+2012,381,CCOD1213,Democratic Republic of the Congo 2012,COD,1
+2012,385,CHTI12,Haiti 2012,HTI,1
+2012,389,OLKA12,Sri Lanka Joint Plan of Assistance to the Northern Province (JPA) 2012,LKA,1
+2012,391,OPAK12,Pakistan Early Recovery Framework 2012,PAK,1
+2012,386,CDJI12,Djibouti Appeal 2012,DJI,1
+2012,392,CMRT12,Mauritania 2012,MRT,1
+2012,380,CCIV12,Cote d'Ivoire 2012,CIV,1
+2012,383,CZWE12,Zimbabwe 2012,ZWE,1
+2012,384,CLBR12,Liberia 2012,LBR,1
+2012,393,CBFA12,Burkina Faso 2012,BFA,1
+2012,395,CMLI12,Mali 2012,MLI,1
+2012,396,CSYR12,Syria Humanitarian Assistance Response Plan (SHARP) 2012,SYR,1
+2012,416,FLSO1213,Lesotho Food Insecurity (September 2012 - March 2013),LSO,1
+2012,397,OPRK12,Korea DPR Overview of Needs and Assistance 2012,PRK,1
+2013,398,CPSE13,occupied Palestinian territory 2013,PSE,1
+2013,401,CCAF13,Central African Republic 2013,CAF,1
+2013,399,CAFG13,Afghanistan 2013,AFG,1
+2013,402,CTCD13,Chad 2013,TCD,1
+2013,400,CBFA13,Burkina Faso 2013,BFA,1
+2013,404,CDJI13,Djibouti 2013,DJI,1
+2013,403,CCOD1314,Democratic Republic of the Congo 2013,COD,1
+2013,406,CKEN13,Kenya Emergency Humanitarian Response Plan 2013,KEN,1
+2013,407,CMLI13,Mali 2013,MLI,1
+2013,408,CMRT13,Mauritania 2013,MRT,1
+2013,409,CNER13,Niger 2013,NER,1
+2013,410,CPHL1314,Philippines Mindanao Action Plan 2013,PHL,1
+2013,414,CYEM13,Yemen Humanitarian Response Plan 2013,YEM,1
+2013,419,OCUB1213,Cuba Plan of Action 2012 - 2013 (November 2012 - December 2013),CUB,1
+2013,420,OMMR1213,Myanmar - Rakhine Response Plan 2012-2013 (July 2012 - December 2013),MMR,1
+2013,412,CSOM13,Somalia 2013,SOM,1
+2013,413,CSDN13,Sudan 2013,SDN,1
+2013,411,CSSD13,Republic of South Sudan 2013,SSD,1
+2013,421,CSYR13,Syria Humanitarian Assistance Response Plan (SHARP) 2013,SYR,1
+2013,415,OZWE13,Zimbabwe 2013,ZWE,1
+2013,424,OMMR13,Myanmar - Kachin Response Plan 2013 (March - December 2013),MMR,1
+2013,423,RXSYRREG13,Syria Regional Refugee Response Plan (RRP) 2013,EGY,5
+2013,423,RXSYRREG13,Syria Regional Refugee Response Plan (RRP) 2013,IRQ,5
+2013,423,RXSYRREG13,Syria Regional Refugee Response Plan (RRP) 2013,JOR,5
+2013,423,RXSYRREG13,Syria Regional Refugee Response Plan (RRP) 2013,LBN,5
+2013,423,RXSYRREG13,Syria Regional Refugee Response Plan (RRP) 2013,TUR,5
+2013,422,CHTI13,Haiti Humanitarian Action Plan 2013,HTI,1
+2014,405,HIRQ14,Iraq Strategic Response Plan 2014,IRQ,1
+2014,426,HAFG14,Afghanistan Strategic Response Plan 2014,AFG,1
+2014,425,SSSD14,South Sudan Crisis Response Plan 2014,SSD,1
+2014,427,SCOD14,République Démocratique du Congo Plan de Réponse Stratégique 2014,COD,1
+2014,428,HNER14,Niger Plan de Réponse Stratégique 2014,NER,1
+2014,429,HCAF14,République Centrafricaine Plan de Réponse Stratégique 2014,CAF,1
+2014,430,HTCD14,Tchad Plan de Réponse Stratégique 2014,TCD,1
+2014,431,HDJI14,Djibouti Strategic Response Plan 2014,DJI,1
+2014,432,HHTI14,Haiti Strategic Response Plan 2014,HTI,1
+2014,433,HMLI14,Mali Plan de Réponse Stratégique 2014,MLI,1
+2014,434,HMRT14,Mauritanie Plan de Réponse Stratégique 2014,MRT,1
+2014,435,SPSE14,Occupied Palestinian Territory Strategic Response Plan 2014,PSE,1
+2014,436,HSOM14,Somalia Strategic Response Plan 2014,SOM,1
+2014,437,HSDN14,Sudan Strategic Response Plan 2014,SDN,1
+2014,438,HYEM14,Yemen Strategic Response Plan 2014,YEM,1
+2014,439,HBFA1314,Burkina Faso Plan de Réponse Stratégique 2014,BFA,1
+2014,440,FPHL1314,Philippines Bohol Earthquake Flash Appeal 2014,PHL,1
+2014,441,SPHL1314,Philippines Typhoon Haiyan Strategic Response Plan 2014,PHL,1
+2014,442,SSYR14,Syria Humanitarian Assistance Response Plan 2014,SYR,1
+2014,443,,Syria Regional Refugee Response Plan 2014,EGY,5
+2014,443,,Syria Regional Refugee Response Plan 2014,IRQ,5
+2014,443,,Syria Regional Refugee Response Plan 2014,JOR,5
+2014,443,,Syria Regional Refugee Response Plan 2014,LBN,5
+2014,443,,Syria Regional Refugee Response Plan 2014,TUR,5
+2014,444,HGMB14,Gambia Strategic Response Plan 2014,GMB,1
+2014,445,HSEN14,Sénégal Plan de Réponse Stratégique 2014,SEN,1
+2014,446,HCMR14,Cameroun Plan de Réponse Stratégique 2014,CMR,1
+2014,447,HNGA14,Nigeria Strategic Response Plan 2014,NGA,1
+2014,448,RBFACMRGMBMLIMRTNERNGASENTCD14,Sahel Region Strategic Response Plan 2014,BFA,9
+2014,448,RBFACMRGMBMLIMRTNERNGASENTCD14,Sahel Region Strategic Response Plan 2014,CMR,9
+2014,448,RBFACMRGMBMLIMRTNERNGASENTCD14,Sahel Region Strategic Response Plan 2014,GMB,9
+2014,448,RBFACMRGMBMLIMRTNERNGASENTCD14,Sahel Region Strategic Response Plan 2014,MLI,9
+2014,448,RBFACMRGMBMLIMRTNERNGASENTCD14,Sahel Region Strategic Response Plan 2014,MRT,9
+2014,448,RBFACMRGMBMLIMRTNERNGASENTCD14,Sahel Region Strategic Response Plan 2014,NER,9
+2014,448,RBFACMRGMBMLIMRTNERNGASENTCD14,Sahel Region Strategic Response Plan 2014,NGA,9
+2014,448,RBFACMRGMBMLIMRTNERNGASENTCD14,Sahel Region Strategic Response Plan 2014,SEN,9
+2014,448,RBFACMRGMBMLIMRTNERNGASENTCD14,Sahel Region Strategic Response Plan 2014,TCD,9
+2014,449,SMMR14,Myanmar Strategic Response Plan 2014,MMR,1
+2014,450,HCOG14,République du Congo Plan de Réponse 2014,COG,1
+2014,451,RXSSDREG14,South Sudan Regional Refugee Response Plan 2014,ETH,4
+2014,451,RXSSDREG14,South Sudan Regional Refugee Response Plan 2014,KEN,4
+2014,451,RXSSDREG14,South Sudan Regional Refugee Response Plan 2014,SDN,4
+2014,451,RXSSDREG14,South Sudan Regional Refugee Response Plan 2014,UGA,4
+2014,452,HPHL1314a,Philippines Zamboanga Crisis Flash Appeal 2014,PHL,1
+2014,453,RGINLBRSLE1415,Ebola Outbreak Response Plan 2014,GIN,3
+2014,453,RGINLBRSLE1415,Ebola Outbreak Response Plan 2014,LBR,3
+2014,453,RGINLBRSLE1415,Ebola Outbreak Response Plan 2014,SLE,3
+2014,475,FUKR14,Ukraine Preliminary Response Plan 2014,UKR,1
+2015,454,HLBY1415,Libya Humanitarian Appeal 2014- 2015,LBY,1
+2015,455,HSSD15,South Sudan Strategic Response Plan 2015,SSD,1
+2015,456,HSOM15,Somalia Strategic Response Plan 2015,SOM,1
+2015,457,HCOD15,République Démocratique du Congo Plan de Réponse Stratégique 2015,COD,1
+2015,458,HMMR15,Myanmar Strategic Response Plan 2015,MMR,1
+2015,459,HPSE15,Occupied Palestinian Territory Strategic Response Plan 2015,PSE,1
+2015,460,HSDN15,Sudan Strategic Response Plan 2015,SDN,1
+2015,461,HSYR15,Syrian Arab Republic Strategic Response Plan 2015,SYR,1
+2015,462,HAFG15,Afghanistan Strategic Response Plan 2015,AFG,1
+2015,463,HCAF15,République Centrafricaine Plan de Réponse Stratégique 2015,CAF,1
+2015,464,HUKR15,Ukraine Strategic Response Plan 2015,UKR,1
+2015,465,HBFA15,Burkina Faso Plan de Réponse Stratégique 2015,BFA,1
+2015,466,HCMR15,Cameroun Plan de Réponse Stratégique 2015,CMR,1
+2015,467,HTCD15,Tchad Plan de Réponse Stratégique 2015,TCD,1
+2015,468,HGMB15,Gambia Strategic Response Plan 2015,GMB,1
+2015,469,HMLI15,Mali Plan de Réponse Stratégique 2015,MLI,1
+2015,470,HMRT15,Mauritanie Plan de Réponse Stratégique 2015,MRT,1
+2015,471,HNER15,Niger Plan de Réponse Stratégique 2015,NER,1
+2015,472,HNGA15,Nigeria Strategic Response Plan 2015,NGA,1
+2015,473,HSEN15,Sénégal Plan de Réponse Stratégique 2015,SEN,1
+2015,474,RBFACMRGMBMLIMRTNERNGASENTCD15,Sahel Region Call for Humanitarian Aid 2015,BFA,9
+2015,474,RBFACMRGMBMLIMRTNERNGASENTCD15,Sahel Region Call for Humanitarian Aid 2015,CMR,9
+2015,474,RBFACMRGMBMLIMRTNERNGASENTCD15,Sahel Region Call for Humanitarian Aid 2015,GMB,9
+2015,474,RBFACMRGMBMLIMRTNERNGASENTCD15,Sahel Region Call for Humanitarian Aid 2015,MLI,9
+2015,474,RBFACMRGMBMLIMRTNERNGASENTCD15,Sahel Region Call for Humanitarian Aid 2015,MRT,9
+2015,474,RBFACMRGMBMLIMRTNERNGASENTCD15,Sahel Region Call for Humanitarian Aid 2015,NER,9
+2015,474,RBFACMRGMBMLIMRTNERNGASENTCD15,Sahel Region Call for Humanitarian Aid 2015,NGA,9
+2015,474,RBFACMRGMBMLIMRTNERNGASENTCD15,Sahel Region Call for Humanitarian Aid 2015,SEN,9
+2015,474,RBFACMRGMBMLIMRTNERNGASENTCD15,Sahel Region Call for Humanitarian Aid 2015,TCD,9
+2015,477,HYEM15,Yemen Strategic Response Plan 2015,YEM,1
+2015,478,FGTM1415,Guatemala Plan de Respuesta Sequia 2015,GTM,1
+2015,479,FHND1415,Honduras Drought Emergency Response Plan 2015,HND,1
+2015,480,RXSYRREG15,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2015,EGY,5
+2015,480,RXSYRREG15,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2015,IRQ,5
+2015,480,RXSYRREG15,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2015,JOR,5
+2015,480,RXSYRREG15,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2015,LBN,5
+2015,480,RXSYRREG15,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2015,TUR,5
+2015,481,RXSSDREG15,South Sudan Regional Refugee Response Plan 2015,ETH,3
+2015,481,RXSSDREG15,South Sudan Regional Refugee Response Plan 2015,KEN,3
+2015,481,RXSSDREG15,South Sudan Regional Refugee Response Plan 2015,UGA,3
+2015,482,HDJI15,Djibouti Plan de Réponse Stratégique 2015,DJI,1
+2015,483,FVUT15,Vanuatu Emergency Response Plan for Tropical Cyclone PAM 2015,VUT,1
+2015,484,HIRQ15,Iraq Strategic Response Plan 2015,IRQ,1
+2015,485,OPRK15,DPR Korea Needs and Priorities 2015,PRK,1
+2015,486,FNPL15,Nepal Flash Appeal Earthquake 2015,NPL,1
+2015,489,FHTI15,Haiti Urgent Request for Humanitarian Funding 2015,HTI,1
+2016,487,HLBY1516,Libya Humanitarian Response Plan 2015-2016,LBY,1
+2016,488,HBFA16,Burkina Faso Plan de Réponse Humanitaire 2016,BFA,1
+2016,490,HCMR16,Cameroun Plan de Réponse Humanitaire 2016,CMR,1
+2016,491,HTCD16,Tchad Plan de Réponse Humanitaire 2016,TCD,1
+2016,492,HGMB16,Gambia Humanitarian Response Plan 2016,GMB,1
+2016,493,HMLI16,Mali Plan de Réponse Humanitaire 2016,MLI,1
+2016,494,HMRT16,Mauritanie Plan de Réponse Humanitaire 2016,MRT,1
+2016,495,HNER16,Niger Plan de Réponse Humanitaire 2016,NER,1
+2016,496,HNGA16,Nigeria Humanitarian Response Plan 2016,NGA,1
+2016,497,RBFACMRGMBMLIMRTNERNGASENTCD16,Sahel Region Call for Humanitarian Aid 2016,BFA,9
+2016,497,RBFACMRGMBMLIMRTNERNGASENTCD16,Sahel Region Call for Humanitarian Aid 2016,CMR,9
+2016,497,RBFACMRGMBMLIMRTNERNGASENTCD16,Sahel Region Call for Humanitarian Aid 2016,GMB,9
+2016,497,RBFACMRGMBMLIMRTNERNGASENTCD16,Sahel Region Call for Humanitarian Aid 2016,MLI,9
+2016,497,RBFACMRGMBMLIMRTNERNGASENTCD16,Sahel Region Call for Humanitarian Aid 2016,MRT,9
+2016,497,RBFACMRGMBMLIMRTNERNGASENTCD16,Sahel Region Call for Humanitarian Aid 2016,NER,9
+2016,497,RBFACMRGMBMLIMRTNERNGASENTCD16,Sahel Region Call for Humanitarian Aid 2016,NGA,9
+2016,497,RBFACMRGMBMLIMRTNERNGASENTCD16,Sahel Region Call for Humanitarian Aid 2016,SEN,9
+2016,497,RBFACMRGMBMLIMRTNERNGASENTCD16,Sahel Region Call for Humanitarian Aid 2016,TCD,9
+2016,498,HSEN16,Sénégal Plan de Réponse Humanitaire 2016,SEN,1
+2016,500,HIRQ16,Iraq Humanitarian Response Plan 2016,IRQ,1
+2016,501,HSYR16,Syrian Arab Republic Humanitarian Response Plan 2016,SYR,1
+2016,502,HSSD16,South Sudan Humanitarian Response Plan 2016,SSD,1
+2016,503,HDJI16,Djibouti Humanitarian Response Plan 2016,DJI,1
+2016,504,HPSE16,Occupied Palestinian Territory Humanitarian Response Plan 2016,PSE,1
+2016,505,HSOM16,Somalia Humanitarian Response Plan 2016,SOM,1
+2016,506,HHTI16,Haiti Humanitarian Response Plan 2016,HTI,1
+2016,507,HUKR1615,Ukraine Humanitarian Response Plan 2016,UKR,1
+2016,509,HGTM16,Guatemala Plan de Repuesta Humanitaria 2016,GTM,1
+2016,510,HHND16,Honduras Plan de Repuesta Humanitaria 2016,HND,1
+2016,511,HCOD16,République Démocratique du Congo Plan de Réponse Humanitaire 2016,COD,1
+2016,512,HAFG16,Afghanistan Humanitarian Response Plan 2016,AFG,1
+2016,513,HYEM16,Yemen Humanitarian Response Plan 2016,YEM,1
+2016,514,RXSYRREG16,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2016,EGY,5
+2016,514,RXSYRREG16,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2016,IRQ,5
+2016,514,RXSYRREG16,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2016,JOR,5
+2016,514,RXSYRREG16,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2016,LBN,5
+2016,514,RXSYRREG16,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2016,TUR,5
+2016,515,HMMR16,Myanmar Humanitarian Response Plan 2016,MMR,1
+2016,516,FFJI16,Fiji Tropical Cyclone Winston Flash Appeal 2016,FJI,1
+2016,517,HCAF16,République Centrafricaine Plan de Réponse Humanitaire 2016,CAF,1
+2016,518,HBDI16,Burundi Plan de Réponse Humanitaire 2016,BDI,1
+2016,519,HZWE1617,Zimbabwe Humanitarian Response Plan 2016,ZWE,1
+2016,520,HSDN16,Sudan Humanitarian Response Plan 2016,SDN,1
+2016,521,OPRK16,DPR Korea Needs and Priorities 2016,PRK,1
+2016,522,FECU16,Ecuador Terremoto Flash Appeal 2016,ECU,1
+2016,523,FIRQ16,Iraq Mosul Flash Appeal 2016,IRQ,1
+2016,524,FLBY16,Libya Sirt Flash Appeal 2016,LBY,1
+2016,525,FAFG16,Afghanistan Flash Appeal 2016,AFG,1
+2016,527,FHTI16,Haiti Hurricane Matthew Flash Appeal 2016,HTI,1
+2016,534,RGRCHRVMKDSRBSVNTUR16,Regional Refugee and Migrant Response Plan for Europe 2016,GRC,6
+2016,534,RGRCHRVMKDSRBSVNTUR16,Regional Refugee and Migrant Response Plan for Europe 2016,HRV,6
+2016,534,RGRCHRVMKDSRBSVNTUR16,Regional Refugee and Migrant Response Plan for Europe 2016,MKD,6
+2016,534,RGRCHRVMKDSRBSVNTUR16,Regional Refugee and Migrant Response Plan for Europe 2016,SRB,6
+2016,534,RGRCHRVMKDSRBSVNTUR16,Regional Refugee and Migrant Response Plan for Europe 2016,SVN,6
+2016,534,RGRCHRVMKDSRBSVNTUR16,Regional Refugee and Migrant Response Plan for Europe 2016,TUR,6
+2017,526,HSYR17,Syrian Arab Republic Humanitarian Response Plan 2017,SYR,1
+2017,528,HSOM17,Somalia Humanitarian Response Plan 2017,SOM,1
+2017,529,HPSE17,Occupied Palestinian Territory Humanitarian Response Plan 2017,PSE,1
+2017,530,HNER17,Niger Plan de Réponse Humanitaire 2017,NER,1
+2017,531,HUKR17,Ukraine Humanitarian Response Plan 2017,UKR,1
+2017,532,HTCD17,Tchad Plan de Réponse Humanitaire 2017,TCD,1
+2017,533,HLBY17,Libya Humanitarian Response Plan 2017,LBY,1
+2017,535,HMLI17,Mali Plan de Réponse Humanitaire 2017,MLI,1
+2017,537,HCMR17,Cameroun Plan de Réponse Humanitaire 2017,CMR,1
+2017,536,HNGA17,Nigeria Humanitarian Response Plan 2017,NGA,1
+2017,538,HSSD17,South Sudan Humanitarian Response Plan 2017,SSD,1
+2017,539,HDJI17,Djibouti Humanitarian Response Plan 2017,DJI,1
+2017,540,HPAK17,Pakistan Humanitarian Strategic Plan 2017,PAK,1
+2017,541,HBDI17,Burundi Plan de Réponse Humanitaire 2017,BDI,1
+2017,542,HYEM17,Yemen Humanitarian Response Plan 2017,YEM,1
+2017,543,HHTI17,Haiti Humanitarian Response Plan 2017,HTI,1
+2017,544,HAFG17,Afghanistan Humanitarian Response Plan 2017,AFG,1
+2017,545,HMMR17,Myanmar Humanitarian Response Plan 2017,MMR,1
+2017,546,HSEN17,Sénégal Plan de Réponse Humanitaire 2017,SEN,1
+2017,547,HMRT17,Mauritanie Plan de Réponse Humanitaire 2017,MRT,1
+2017,548,HBFA17,Burkina Faso Plan de Réponse Humanitaire 2017,BFA,1
+2017,550,HIRQ17,Iraq Humanitarian Response Plan 2017,IRQ,1
+2017,549,HCAF17,République Centrafricaine Plan de Réponse Humanitaire 2017,CAF,1
+2017,552,RSYR17,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2017,EGY,5
+2017,552,RSYR17,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2017,IRQ,5
+2017,552,RSYR17,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2017,JOR,5
+2017,552,RSYR17,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2017,LBN,5
+2017,552,RSYR17,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2017,TUR,5
+2017,584,HSDN17,Sudan Humanitarian Response Plan 2017,SDN,1
+2017,586,FMOZ17,Mozambique Cyclone Dineo Flash Appeal 2017,MOZ,1
+2017,587,HCOD17,République Démocratique du Congo Plan de Réponse Humanitaire 2017,COD,1
+2017,589,FKEN17,Kenya Flash Appeal 2017,KEN,1
+2017,590,FMDG17,Madagascar Tropical Cyclone Enawo Flash Appeal 2017,MDG,1
+2017,588,HETH17,Ethiopia Humanitarian Response Plan 2017,ETH,1
+2017,592,OPRK17,DPR Korea Needs and Priorities 2017,PRK,1
+2017,593,FPER17,Perú Costa Norte Flash Appeal 2017,PER,1
+2017,628,HBGD17,Rohingya Humanitarian Crisis Joint Response Plan 2017,BGD,1
+2017,630,RAIAATGBHSBLMKNAMAFSXMTCAVGB17,Hurricane Irma Regional Response Plan for the Caribbean Region 2017,AIA,9
+2017,630,RAIAATGBHSBLMKNAMAFSXMTCAVGB17,Hurricane Irma Regional Response Plan for the Caribbean Region 2017,ATG,9
+2017,630,RAIAATGBHSBLMKNAMAFSXMTCAVGB17,Hurricane Irma Regional Response Plan for the Caribbean Region 2017,BHS,9
+2017,630,RAIAATGBHSBLMKNAMAFSXMTCAVGB17,Hurricane Irma Regional Response Plan for the Caribbean Region 2017,BLM,9
+2017,630,RAIAATGBHSBLMKNAMAFSXMTCAVGB17,Hurricane Irma Regional Response Plan for the Caribbean Region 2017,KNA,9
+2017,630,RAIAATGBHSBLMKNAMAFSXMTCAVGB17,Hurricane Irma Regional Response Plan for the Caribbean Region 2017,MAF,9
+2017,630,RAIAATGBHSBLMKNAMAFSXMTCAVGB17,Hurricane Irma Regional Response Plan for the Caribbean Region 2017,SXM,9
+2017,630,RAIAATGBHSBLMKNAMAFSXMTCAVGB17,Hurricane Irma Regional Response Plan for the Caribbean Region 2017,TCA,9
+2017,630,RAIAATGBHSBLMKNAMAFSXMTCAVGB17,Hurricane Irma Regional Response Plan for the Caribbean Region 2017,VGB,9
+2017,631,OCUB17,Cuba Plan of Action 2017,CUB,1
+2017,632,FDMA17,Dominica Hurricane Maria Flash Appeal 2017,DMA,1
+2017,626,HCOG17,Congo Plan de Réponse Humanitaire 2017,COG,1
+2018,629,HSYR18,Syrian Arab Republic Humanitarian Response Plan 2018,SYR,1
+2018,634,HIRQ18,Iraq Humanitarian Response Plan 2018,IRQ,1
+2018,633,HPSE18,Occupied Palestinian Territory Humanitarian Response Strategy 2018,PSE,1
+2018,635,HSDN18,Sudan Humanitarian Response Plan 2018,SDN,1
+2018,636,HLBY18,Libya Humanitarian Response Plan 2018,LBY,1
+2018,637,HTCD18,Tchad Plan de Réponse Humanitaire 2018,TCD,1
+2018,638,HMLI18,Mali Plan de Réponse Humanitaire 2018,MLI,1
+2018,639,HBDI18,Burundi Plan de Réponse Humanitaire 2018,BDI,1
+2018,640,HCMR18,Cameroun Plan de Réponse Humanitaire 2018,CMR,1
+2018,641,HUKR18,Ukraine Humanitarian Response Plan 2018,UKR,1
+2018,642,HNGA18,Nigeria Humanitarian Response Plan 2018,NGA,1
+2018,643,HNER18,Niger Plan de Réponse Humanitaire 2018,NER,1
+2018,644,HSOM18,Somalia Humanitarian Response Plan 2018,SOM,1
+2018,645,HAFG18,Afghanistan Humanitarian Response Plan 2018,AFG,1
+2018,646,HSSD18,South Sudan Humanitarian Response Plan 2018,SSD,1
+2018,648,OPAK18,Pakistan Transition Plan: Humanitarian Component 2018,PAK,1
+2018,649,HHTI18,Haiti Humanitarian Response Plan 2018,HTI,1
+2018,651,HCAF18,République Centrafricaine Plan de Réponse Humanitaire 2018,CAF,1
+2018,652,HCOD18,République Démocratique du Congo Plan de Réponse Humanitaire 2018,COD,1
+2018,653,OBFA18,Burkina Faso Plan d'Urgence et de Résilience 2018,BFA,1
+2018,654,OSEN18,Sénégal Plan de Travail Humanitaire 2018,SEN,1
+2018,655,HMMR18,Myanmar Interim Humanitarian Response Plan 2018,MMR,1
+2018,656,RBGD18,Rohingya Humanitarian Crisis Joint Response Plan 2018,BGD,1
+2018,657,HYEM18,Yemen Humanitarian Response Plan 2018,YEM,1
+2018,658,RSYR18,Syrian Arab Republic regional refugee and resilience plan (3RP) 2018,EGY,5
+2018,658,RSYR18,Syrian Arab Republic regional refugee and resilience plan (3RP) 2018,IRQ,5
+2018,658,RSYR18,Syrian Arab Republic regional refugee and resilience plan (3RP) 2018,JOR,5
+2018,658,RSYR18,Syrian Arab Republic regional refugee and resilience plan (3RP) 2018,LBN,5
+2018,658,RSYR18,Syrian Arab Republic regional refugee and resilience plan (3RP) 2018,TUR,5
+2018,659,OPRK18,DPR Korea Needs and Priorities 2018,PRK,1
+2018,660,HETH18,Ethiopia Humanitarian and Disaster Resilience Plan 2018,ETH,1
+2018,661,OMRT18,Mauritania  Plan de Travail Humanitaire 2018,MRT,1
+2018,665,OPHL18,Philippines Marawi Conflict Humanitarian Response and Resources Overview 2018,PHL,1
+2018,669,OIDN18,Indonesia Central Sulawesi Earthquake Response Plan 2018,IDN,1
+2019,668,HTCD19,Tchad Plan de Réponse Humanitaire 2019,TCD,1
+2019,670,HSDN19,Sudan Humanitarian Response Plan 2019,SDN,1
+2019,662,HUKR19,Ukraine Humanitarian Response Plan 2019,UKR,1
+2019,671,HIRQ19,Iraq Humanitarian Response Plan 2019,IRQ,1
+2019,664,HPSE19,Occupied Palestinian Territory Humanitarian Response Strategy 2019,PSE,1
+2019,663,HSYR19,Syrian Arab Republic Humanitarian Response Plan 2019,SYR,1
+2019,667,HSOM19,Somalia Humanitarian Response Plan 2019,SOM,1
+2019,673,HCOD19,République Démocratique du Congo Plan de Réponse Humanitaire 2019,COD,1
+2019,677,HETH19,Ethiopia Humanitarian Response Plan 2019,ETH,1
+2019,672,HAFG19,Afghanistan Humanitarian Response Plan 2019,AFG,1
+2019,675,HYEM19,Yemen Humanitarian Response Plan 2019,YEM,1
+2019,674,HCAF19,République Centrafricaine Plan de Réponse Humanitaire 2019,CAF,1
+2019,676,HNER19,Niger Plan de Réponse Humanitaire 2019,NER,1
+2019,678,HMMR19,Myanmar Humanitarian Response Plan 2019,MMR,1
+2019,679,HHTI19,Haïti Plan de Réponse Humanitaire 2019,HTI,1
+2019,712,HLBY19,Libya Humanitarian Response Plan 2019,LBY,1
+2019,716,HMLI19,Mali Plan de Réponse Humanitaire 2019,MLI,1
+2019,713,HSSD19,South Sudan Humanitarian Response Plan 2019,SSD,1
+2019,714,HNGA19,Nigeria Humanitarian Response Strategy 2019,NGA,1
+2019,719,RBGD19,Rohingya Humanitarian Crisis Joint Response Plan 2019,BGD,1
+2019,717,OPRK19,DPR Korea Needs and Priorities 2019,PRK,1
+2019,718,HCMR19,Cameroun Plan de Réponse Humanitaire 2019,CMR,1
+2019,722,FZWE1920,Zimbabwe Flash Appeal 2019,ZWE,1
+2019,720,OPAK19,Pakistan Response Plan 2019,PAK,1
+2019,727,FMDG19,Madagascar Grand Sud Appel Éclair Conjoint 2019,MDG,1
+2019,794,OBFA19,Burkina Faso Plan d'Urgence 2019,BFA,1
+2019,827,HVEN19,Venezuela Plan de Respuesta Humanitaria 2019,VEN,1
+2019,829,OIRN19,Islamic Republic of Iran Floods Response Plan 2019,IRN,1
+2019,724,RSYR19,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2019,EGY,5
+2019,724,RSYR19,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2019,IRQ,5
+2019,724,RSYR19,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2019,JOR,5
+2019,724,RSYR19,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2019,LBN,5
+2019,724,RSYR19,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2019,TUR,5
+2019,721,HBDI19,Burundi Plan de Réponse Humanitaire 2019,BDI,1
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,ABW,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,ARG,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,BRA,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,CHL,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,COL,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,CRI,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,CUW,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,DOM,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,ECU,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,GUY,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,MEX,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,PAN,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,PER,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,PRY,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,TTO,16
+2019,726,RSAMR19,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,URY,16
+2019,761,HMOZ19,Mozambique Humanitarian Response Plan 2019,MOZ,1
+2020,830,HUKR20,Ukraine Humanitarian Response Plan 2020,UKR,1
+2020,831,HSOM20,Somalia Humanitarian Response Plan 2020,SOM,1
+2020,832,HPSE20,Occupied Palestinian Territory Humanitarian Response Plan 2020,PSE,1
+2020,865,HSSD20,South Sudan Humanitarian Response Plan 2020,SSD,1
+2020,866,HIRQ20,Iraq Humanitarian Response Plan 2020,IRQ,1
+2020,869,HNGA20,Nigeria Humanitarian Response Plan 2020,NGA,1
+2020,870,HSDN20,Sudan Humanitarian Response Plan 2020,SDN,1
+2020,906,RBGD20,Rohingya Humanitarian Crisis Joint Response Plan 2020,BGD,1
+2020,907,HTCD20,Tchad Plan de Réponse Humanitaire 2020,TCD,1
+2020,908,HNER20,Niger Plan de Réponse Humanitaire 2020,NER,1
+2020,913,HMLI20,Mali Plan de Réponse Humanitaire 2020,MLI,1
+2020,919,HCOD20,République Démocratique du Congo Plan de Réponse Humanitaire 2020,COD,1
+2020,921,HZWE20,Zimbabwe Humanitarian Response Plan 2020,ZWE,1
+2020,920,HHTI20,Haïti Plan de Réponse Humanitaire 2020,HTI,1
+2020,922,HBDI20,Burundi Plan de Réponse Humanitaire 2020,BDI,1
+2020,923,HCAF2021,République Centrafricaine Plan de Réponse Humanitaire 2020,CAF,1
+2020,924,HSYR20,Syrian Arab Republic Humanitarian Response Plan 2020,SYR,1
+2020,925,HYEM20,Yemen Humanitarian Response Plan 2020,YEM,1
+2020,927,HCMR20,Cameroon Humanitarian Response Plan 2020,CMR,1
+2020,928,HVEN20,Venezuela Plan de Respuesta Humanitaria con Panorama de Necesidades 2020,VEN,1
+2020,929,HAFG20,Afghanistan Humanitarian Response Plan 2020,AFG,1
+2020,930,HBFA20,Burkina Faso Plan de Réponse Humanitaire 2020,BFA,1
+2020,931,HLBY20,Libya Humanitarian Response Plan 2020,LBY,1
+2020,934,HMMR20,Myanmar Humanitarian Response Plan 2020,MMR,1
+2020,935,OPRK20b,DPR Korea Needs and Priorities 2020,PRK,1
+2020,936,HETH20,Ethiopia Humanitarian Response Plan 2020,ETH,1
+2020,937,OZMB1920,Zambia Humanitarian Appeal 2020,ZMB,1
+2020,939,FDJI1920,Djibouti Flash Appeal 2020,DJI,1
+2020,943,RSYR20,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2020,EGY,5
+2020,943,RSYR20,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2020,IRQ,5
+2020,943,RSYR20,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2020,JOR,5
+2020,943,RSYR20,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2020,LBN,5
+2020,943,RSYR20,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2020,TUR,5
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,ABW,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,ARG,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,BOL,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,BRA,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,CHL,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,COL,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,CRI,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,CUW,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,DOM,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,ECU,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,GUY,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,MEX,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,PAN,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,PER,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,PRY,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,TTO,17
+2020,944,RREG20,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,URY,17
+2020,945,RRWATZAUGA20,Burundi Regional Refugee Response Plan 2020,RWA,3
+2020,945,RRWATZAUGA20,Burundi Regional Refugee Response Plan 2020,TZA,3
+2020,945,RRWATZAUGA20,Burundi Regional Refugee Response Plan 2020,UGA,3
+2020,946,RDRCRRP20,Democratic Republic of the Congo Regional Refugee Response Plan 2020,AGO,6
+2020,946,RDRCRRP20,Democratic Republic of the Congo Regional Refugee Response Plan 2020,COG,6
+2020,946,RDRCRRP20,Democratic Republic of the Congo Regional Refugee Response Plan 2020,RWA,6
+2020,946,RDRCRRP20,Democratic Republic of the Congo Regional Refugee Response Plan 2020,TZA,6
+2020,946,RDRCRRP20,Democratic Republic of the Congo Regional Refugee Response Plan 2020,UGA,6
+2020,946,RDRCRRP20,Democratic Republic of the Congo Regional Refugee Response Plan 2020,ZMB,6
+2020,947,RETHKENUGA20,South Sudan Regional Refugee Response Plan 2020,ETH,3
+2020,947,RETHKENUGA20,South Sudan Regional Refugee Response Plan 2020,KEN,3
+2020,947,RETHKENUGA20,South Sudan Regional Refugee Response Plan 2020,UGA,3
+2020,948,FLSO1920,Lesotho Flash Appeal 2019-2020,LSO,1
+2020,950,HCOL20,Colombia Plan de Respuesta Humanitaria 2020,COL,1
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,ABW,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,AFG,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,AGO,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,ARG,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,BDI,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,BFA,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,BGD,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,BOL,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,BRA,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,CAF,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,CHL,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,CMR,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,COD,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,COG,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,COL,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,CRI,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,CUW,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,DJI,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,DOM,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,ECU,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,EGY,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,ETH,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,GUY,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,HTI,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,IRN,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,IRQ,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,JOR,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,KEN,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,LBN,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,LBY,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,MEX,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,MLI,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,MMR,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,NER,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,NGA,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,PAN,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,PER,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,PRK,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,PRY,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,PSE,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,RWA,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,SDN,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,SOM,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,SSD,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,SYR,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,TCD,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,TTO,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,TUR,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,TZA,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,UGA,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,UKR,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,URY,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,VEN,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,YEM,55
+2020,952,OCOVD20,GHRP (COVID) Global Humanitarian Response Plan 2020,ZMB,55
+2020,985,OCOL20,Colombia Plan de Respuesta Intersectorial COVID-19 2020,COL,1
+2020,986,OBEN20,Bénin Plan de Réponse Intersectorielle COVID-19 2020,BEN,1
+2020,987,OIRN20,Iran Intersectoral COVID-19 Response Plan 2020,IRN,1
+2020,988,OLBN20,Lebanon Intersectoral COVID-19 Response Plan 2020,LBN,1
+2020,989,OLBR20,Liberia Intersectoral COVID-19 Response Plan 2020,LBR,1
+2020,990,OMOZ20b,Mozambique UN Multi-Sector Response Plan to COVID-19,MOZ,1
+2020,991,OPAK20,Pakistan Intersectoral COVID-19 Response Plan 2020,PAK,1
+2020,992,OPHL20,Philippines Intersectoral COVID-19 Response Plan 2020,PHL,1
+2020,993,OSLE20,Sierra Leone Intersectoral COVID-19 Response Plan 2020,SLE,1
+2020,994,OTGO20,Togo Plan de Réponse Intersectorielle COVID-19 2020,TGO,1
+2020,995,OPRK20c,DPR Korea Intersectoral COVID-19 Response Plan 2020,PRK,1
+2020,997,OMOZ20a,Cabo Delgado Province Mozambique Rapid Response Plan 2020,MOZ,1
+2020,998,OBGD20,Bangladesh Intersectoral COVID-19 Response Plan 2020,BGD,1
+2020,999,OECU20,Ecuador Plan de Respuesta Intersectorial COVID-19 2020,ECU,1
+2020,1000,OKEN20,Kenya Intersectoral COVID-19 Response Plan 2020,KEN,1
+2020,1001,OTZA20,Tanzania Intersectoral COVID-19 Response Plan 2020,TZA,1
+2020,1002,OZMB20,Zambia Intersectoral COVID-19 Response Plan 2020,ZMB,1
+2020,1003,ODJI20,Djibouti Intersectoral COVID-19 Response Plan 2020,DJI,1
+2020,1004,OUGA20,Uganda Intersectoral COVID-19 Response Plan 2020,UGA,1
+2020,1005,OCOG20,République du Congo Plan de Réponse Intersectorielle COVID-19 2020,COG,1
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,AFG,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,AGO,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,BDI,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,BEN,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,BFA,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,BGD,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,CAF,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,CMR,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,COD,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,COL,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,DJI,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,ECU,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,EGY,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,ETH,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,HTI,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,IRN,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,IRQ,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,JOR,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,KEN,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,LBN,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,LBR,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,LBY,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,LSO,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,MLI,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,MMR,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,MOZ,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,NER,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,NGA,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,PAK,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,PHL,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,PRK,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,PSE,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,RWA,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,SDN,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,SLE,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,SOM,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,SSD,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,SYR,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,TCD,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,TGO,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,TUR,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,TZA,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,UGA,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,UKR,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,VEN,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,YEM,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,ZMB,48
+2020,1006,OGLBL20b,GHRP (COVID) Famine Prevention 2020,ZWE,48
+2020,1008,RDJIETHSOMYEM20,Regional Migrant Response Plan for the Horn of Africa and Yemen 2020,DJI,4
+2020,1008,RDJIETHSOMYEM20,Regional Migrant Response Plan for the Horn of Africa and Yemen 2020,ETH,4
+2020,1008,RDJIETHSOMYEM20,Regional Migrant Response Plan for the Horn of Africa and Yemen 2020,SOM,4
+2020,1008,RDJIETHSOMYEM20,Regional Migrant Response Plan for the Horn of Africa and Yemen 2020,YEM,4
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,AFG,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,AGO,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,BDI,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,BEN,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,BFA,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,BGD,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,CAF,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,CMR,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,COD,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,COL,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,DJI,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,ECU,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,EGY,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,ETH,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,HTI,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,IRN,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,IRQ,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,JOR,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,KEN,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,LBN,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,LBR,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,LBY,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,LSO,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,MLI,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,MMR,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,MOZ,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,NER,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,NGA,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,PAK,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,PHL,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,PRK,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,PSE,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,RWA,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,SDN,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,SLE,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,SOM,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,SSD,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,SYR,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,TCD,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,TGO,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,TUR,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,TZA,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,UGA,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,UKR,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,VEN,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,YEM,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,ZMB,48
+2020,1007,OGLBL20a,GHRP (COVID) Unallocated supplementary NGO envelope 2020,ZWE,48
+2020,1009,FLBN20,Lebanon Flash Appeal 2020,LBN,1
+2020,1010,OJOR20,Jordan Intersectoral COVID-19 Response Plan 2020,JOR,1
+2021,1011,HSOM21,Somalia Humanitarian Response Plan 2021,SOM,1
+2021,1012,HPSE21,Occupied Palestinian Territory Humanitarian Response Plan 2021,PSE,1
+2021,1013,HSSD21,South Sudan Humanitarian Response Plan 2021,SSD,1
+2021,1014,HSDN21,Sudan Humanitarian Response Plan 2021,SDN,1
+2021,1015,HUKR21,Ukraine Humanitarian Response Plan 2021,UKR,1
+2021,1016,HCOL21,Colombia Plan de Respuesta Humanitaria 2021,COL,1
+2021,1017,RRWATZAUGA21,Burundi Regional Refugee Response Plan 2021,RWA,3
+2021,1017,RRWATZAUGA21,Burundi Regional Refugee Response Plan 2021,TZA,3
+2021,1017,RRWATZAUGA21,Burundi Regional Refugee Response Plan 2021,UGA,3
+2021,1018,RDRCRRP21,Democratic Republic of the Congo Regional Refugee Response Plan 2021,AGO,7
+2021,1018,RDRCRRP21,Democratic Republic of the Congo Regional Refugee Response Plan 2021,BDI,7
+2021,1018,RDRCRRP21,Democratic Republic of the Congo Regional Refugee Response Plan 2021,COG,7
+2021,1018,RDRCRRP21,Democratic Republic of the Congo Regional Refugee Response Plan 2021,RWA,7
+2021,1018,RDRCRRP21,Democratic Republic of the Congo Regional Refugee Response Plan 2021,TZA,7
+2021,1018,RDRCRRP21,Democratic Republic of the Congo Regional Refugee Response Plan 2021,UGA,7
+2021,1018,RDRCRRP21,Democratic Republic of the Congo Regional Refugee Response Plan 2021,ZMB,7
+2021,1019,RETHKENUGA21,South Sudan Regional Refugee Response Plan 2021,ETH,3
+2021,1019,RETHKENUGA21,South Sudan Regional Refugee Response Plan 2021,KEN,3
+2021,1019,RETHKENUGA21,South Sudan Regional Refugee Response Plan 2021,UGA,3
+2021,1020,RSYR21,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2021,EGY,5
+2021,1020,RSYR21,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2021,IRQ,5
+2021,1020,RSYR21,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2021,JOR,5
+2021,1020,RSYR21,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2021,LBN,5
+2021,1020,RSYR21,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2021,TUR,5
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,ABW,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,ARG,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,BOL,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,BRA,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,CHL,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,COL,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,CRI,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,CUW,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,DOM,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,ECU,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,GUY,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,MEX,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,PAN,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,PER,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,PRY,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,TTO,17
+2021,1021,RREG21,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,URY,17
+2021,1023,RBGD21,Rohingya Humanitarian Crisis Joint Response Plan 2021,BGD,1
+2021,1024,HYEM21,Yemen Humanitarian Response Plan 2021,YEM,1
+2021,1025,HCAF21,République Centrafricaine Plan de Réponse Humanitaire 2021,CAF,1
+2021,1026,HCOD21,République Démocratique du Congo Plan de Réponse Humanitaire 2021,COD,1
+2021,1027,HLBY21,Libya Humanitarian Response Plan 2021,LBY,1
+2021,1028,HTCD21,Tchad Plan de Réponse Humanitaire 2021,TCD,1
+2021,1029,HVEN21,Venezuela Plan de Respuesta Humanitaria 2021,VEN,1
+2021,1030,HCMR21,Cameroon Humanitarian Response Plan  2021,CMR,1
+2021,1031,HAFG21,Afghanistan Humanitarian Response Plan 2021,AFG,1
+2021,1032,HNGA21,Nigeria Humanitarian Response Plan 2021,NGA,1
+2021,1033,HNER21,Niger Plan de Réponse Humanitaire 2021,NER,1
+2021,1034,HPAK21,Pakistan Humanitarian Response Plan 2021,PAK,1
+2021,1035,HIRQ21,Iraq Humanitarian Response Plan 2021,IRQ,1
+2021,1036,HMLI21,Mali Plan de Réponse Humanitaire 2021,MLI,1
+2021,1037,HBFA21,Burkina Faso Plan de Réponse Humanitaire 2021,BFA,1
+2021,1038,RDJIETHSOMYEM21,Regional Migrant Response Plan for the Horn of Africa and Yemen 2021,DJI,4
+2021,1038,RDJIETHSOMYEM21,Regional Migrant Response Plan for the Horn of Africa and Yemen 2021,ETH,4
+2021,1038,RDJIETHSOMYEM21,Regional Migrant Response Plan for the Horn of Africa and Yemen 2021,SOM,4
+2021,1038,RDJIETHSOMYEM21,Regional Migrant Response Plan for the Horn of Africa and Yemen 2021,YEM,4
+2021,1039,HBDI21,Burundi Plan de Réponse Humanitaire 2021,BDI,1
+2021,1040,HMOZ21,Mozambique Humanitarian Response Plan 2021,MOZ,1
+2021,1041,HETH21,Ethiopia Humanitarian Response Plan 2021,ETH,1
+2021,1042,HZWE21,Zimbabwe Humanitarian Response Plan 2021,ZWE,1
+2021,1043,HHTI21,Haïti Plan de Réponse Humanitaire 2021,HTI,1
+2021,1044,HSYR21,Syrian Arab Republic Humanitarian Response Plan 2021,SYR,1
+2021,1045,FHND2021,Honduras Tropical Storm Eta Flash Appeal 2021,HND,1
+2021,1046,HMMR21,Myanmar Humanitarian Response Plan 2021,MMR,1
+2021,1047,FMDG21,Madagascar Grand Sud Flash Appeal 2021,MDG,1
+2021,1048,ONPL21,Nepal Intersectoral COVID-19 Response Plan 2021,NPL,1
+2021,1049,FPSE21,Escalation of Hostilities in the OPT  Flash Appeal 2021,PSE,1
+2021,1050,OLBN2122,Lebanon Emergency Response Plan 2021,LBN,1
+2021,1051,OMMR21,Myanmar Interim Emergency Response Plan 2021,MMR,1
+2021,1052,HGTM21,Guatemala Plan de Respuesta Humanitaria 2021,GTM,1
+2021,1053,HHND21,Honduras Plan de Respuesta Humanitaria 2021,HND,1
+2021,1054,HSLV21,El Salvador Plan de Respuesta Humanitaria 2021,SLV,1
+2021,1055,FETH21,Northern Ethiopia Response Plan 2021,ETH,1
+2021,1056,FHTI2122,Haiti Earthquake Flash Appeal 2021,HTI,1
+2021,1057,FAFG21,Afghanistan Flash Appeal 2021,AFG,1
+2021,1073,FKEN21,Kenya Drought Flash Appeal 2021,KEN,1
+2022,1059,HPSE22,Occupied Palestinian Territory Humanitarian Response Plan 2022,PSE,1
+2022,1060,HLBY22,Libya Humanitarian Response Plan 2022,LBY,1
+2022,1061,RAFG22,Afghanistan Situation Regional Refugee Response Plan 2022,IRN,5
+2022,1061,RAFG22,Afghanistan Situation Regional Refugee Response Plan 2022,PAK,5
+2022,1061,RAFG22,Afghanistan Situation Regional Refugee Response Plan 2022,TJK,5
+2022,1061,RAFG22,Afghanistan Situation Regional Refugee Response Plan 2022,TKM,5
+2022,1061,RAFG22,Afghanistan Situation Regional Refugee Response Plan 2022,UZB,5
+2022,1062,HNGA22,Nigeria Humanitarian Response Plan 2022,NGA,1
+2022,1063,HSOM22,Somalia Humanitarian Response Plan 2022,SOM,1
+2022,1064,HCAF22,République Centrafricaine Plan de Réponse Humanitaire 2022,CAF,1
+2022,1066,RDJIETHSOMYEM22,Regional Migrant Response Plan for the Horn of Africa and Yemen 2022,DJI,4
+2022,1066,RDJIETHSOMYEM22,Regional Migrant Response Plan for the Horn of Africa and Yemen 2022,ETH,4
+2022,1066,RDJIETHSOMYEM22,Regional Migrant Response Plan for the Horn of Africa and Yemen 2022,SOM,4
+2022,1066,RDJIETHSOMYEM22,Regional Migrant Response Plan for the Horn of Africa and Yemen 2022,YEM,4
+2022,1067,FMDG22,Madagascar Grand Sud and Grand Sud-Est Flash Appeal 2022,MDG,1
+2022,1068,HSDN22,Sudan Humanitarian Response Plan 2022,SDN,1
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,ABW,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,ARG,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,BOL,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,BRA,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,CHL,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,COL,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,CRI,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,CUW,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,DOM,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,ECU,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,GUY,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,MEX,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,PAN,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,PER,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,PRY,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,TTO,17
+2022,1069,RREG22,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,URY,17
+2022,1071,RSSDRRP22,South Sudan Regional Refugee Response Plan 2022,ETH,3
+2022,1071,RSSDRRP22,South Sudan Regional Refugee Response Plan 2022,KEN,3
+2022,1071,RSSDRRP22,South Sudan Regional Refugee Response Plan 2022,UGA,3
+2022,1072,RSYR22,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022,EGY,5
+2022,1072,RSYR22,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022,IRQ,5
+2022,1072,RSYR22,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022,JOR,5
+2022,1072,RSYR22,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022,LBN,5
+2022,1072,RSYR22,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022,TUR,5
+2022,1075,HBDI22,Burundi Plan de Réponse Humanitaire 2022,BDI,1
+2022,1077,HYEM22,Yemen Humanitarian Response Plan 2022,YEM,1
+2022,1079,HETH22,Ethiopia Humanitarian Response Plan 2022,ETH,1
+2022,1076,HMLI22,Mali Plan de Réponse Humanitaire 2022,MLI,1
+2022,1078,HNER22,Niger Plan de Réponse Humanitaire 2022,NER,1
+2022,1080,HCMR22,Cameroon Humanitarian Response Plan 2022,CMR,1
+2022,1085,HGTM22,Guatemala Plan de Respuesta Humanitaria 2022,GTM,1
+2022,1081,HUKR22,Ukraine Humanitarian Response Plan 2022,UKR,1
+2022,1084,HSLV22,El Salvador Plan de Respuesta Humanitaria 2022,SLV,1
+2022,1082,RBGD22,Rohingya Humanitarian Crisis Joint Response Plan 2022,BGD,1
+2022,1083,HIRQ22,Iraq Humanitarian Response Plan 2022,IRQ,1
+2022,1086,HHND22,Honduras Plan de Respuesta Humanitaria 2022,HND,1
+2022,1087,HBFA22,Burkina Faso Plan de Réponse Humanitaire 2022,BFA,1
+2022,1090,HCOL22,Colombia Plan de Respuesta Humanitaria 2022,COL,1
+2022,1091,HTCD22,Tchad Plan de Réponse Humanitaire 2022,TCD,1
+2022,1088,HSYR22,Syrian Arab Republic Humanitarian Response Plan 2022 - 2023,SYR,1
+2022,1092,RDRCRRP22,Democratic Republic of the Congo Regional Refugee Response Plan 2022,AGO,6
+2022,1092,RDRCRRP22,Democratic Republic of the Congo Regional Refugee Response Plan 2022,COG,6
+2022,1092,RDRCRRP22,Democratic Republic of the Congo Regional Refugee Response Plan 2022,RWA,6
+2022,1092,RDRCRRP22,Democratic Republic of the Congo Regional Refugee Response Plan 2022,TZA,6
+2022,1092,RDRCRRP22,Democratic Republic of the Congo Regional Refugee Response Plan 2022,UGA,6
+2022,1092,RDRCRRP22,Democratic Republic of the Congo Regional Refugee Response Plan 2022,ZMB,6
+2022,1093,HCOD22,République Démocratique du Congo Plan de Réponse Humanitaire 2022,COD,1
+2022,1096,HHTI22,Haïti Plan de Réponse Humanitaire 2022,HTI,1
+2022,1094,HMOZ22,Mozambique Humanitarian Response Plan 2022,MOZ,1
+2022,1095,HMMR22,Myanmar Humanitarian Response Plan 2022,MMR,1
+2022,1097,HVEN22,Venezuela Plan de Respuesta Humanitaria 2022,VEN,1
+2022,1102,FUKR22,Ukraine Flash Appeal 2022,UKR,1
+2022,1098,HSSD22,South Sudan Humanitarian Response Plan 2022,SSD,1
+2022,1099,OLBN22,Lebanon Emergency Response Plan 2022,LBN,1
+2022,1100,HAFG22,Afghanistan Humanitarian Response Plan 2022,AFG,1
+2022,1101,OPHL2122,Philippines Super Typhoon Rai (Odette) Humanitarian Needs and Priorities 2022,PHL,1
+2022,1103,RUKRN22,Ukraine Situation Regional Refugee Response Plan 2022,HUN,5
+2022,1103,RUKRN22,Ukraine Situation Regional Refugee Response Plan 2022,MDA,5
+2022,1103,RUKRN22,Ukraine Situation Regional Refugee Response Plan 2022,POL,5
+2022,1103,RUKRN22,Ukraine Situation Regional Refugee Response Plan 2022,ROU,5
+2022,1103,RUKRN22,Ukraine Situation Regional Refugee Response Plan 2022,SVK,5
+2022,1104,FMWI22,Malawi Flash Appeal 2022,MWI,1
+2022,1106,FMOZ22,Mozambique Gombe Emergency Response Plan 2022,MOZ,1
+2022,1107,OLKA22,Sri Lanka Multi-Dimensional Crisis Humanitarian Needs and Priorities 2022,LKA,1
+2022,1108,OPAK22,Pakistan Floods Response Plan 2022,PAK,1
+2022,1105,FKEN22,Kenya Drought Flash Appeal 2022,KEN,1
+2022,1146,OCUB2223,Cuba Hurricane Ian Response - Plan of Action 2022,CUB,1
+2022,1147,FHTI2223,Haïti Choléra+ Appel Éclair 2022,HTI,1
+2023,1109,HPSE23,Occupied Palestinian Territory Humanitarian Response Plan 2023,PSE,1
+2023,1110,HNGA23,Nigeria Humanitarian Response Plan 2023,NGA,1
+2023,1111,HSSD23,South Sudan Humanitarian Response Plan 2023,SSD,1
+2023,1112,HBFA23,Burkina Faso Plan de Réponse Humanitaire 2023,BFA,1
+2023,1113,HCOD23,République Démocratique du Congo Plan de Réponse Humanitaire 2023,COD,1
+2023,1114,HSYR23,Syrian Arab Republic Humanitarian Response Plan 2023,SYR,1
+2023,1115,HCMR23,Cameroon Humanitarian Response Plan 2023,CMR,1
+2023,1117,HAFG23,Afghanistan Humanitarian Response Plan 2023,AFG,1
+2023,1116,HYEM23,Yemen Humanitarian Response Plan 2023,YEM,1
+2023,1118,RAFG23,Afghanistan Situation Regional Refugee Response Plan 2023,IRN,5
+2023,1118,RAFG23,Afghanistan Situation Regional Refugee Response Plan 2023,PAK,5
+2023,1118,RAFG23,Afghanistan Situation Regional Refugee Response Plan 2023,TJK,5
+2023,1118,RAFG23,Afghanistan Situation Regional Refugee Response Plan 2023,TKM,5
+2023,1118,RAFG23,Afghanistan Situation Regional Refugee Response Plan 2023,UZB,5
+2023,1119,RDRCRRP23,Democratic Republic of the Congo Regional Refugee Response Plan 2023,AGO,6
+2023,1119,RDRCRRP23,Democratic Republic of the Congo Regional Refugee Response Plan 2023,COG,6
+2023,1119,RDRCRRP23,Democratic Republic of the Congo Regional Refugee Response Plan 2023,RWA,6
+2023,1119,RDRCRRP23,Democratic Republic of the Congo Regional Refugee Response Plan 2023,TZA,6
+2023,1119,RDRCRRP23,Democratic Republic of the Congo Regional Refugee Response Plan 2023,UGA,6
+2023,1119,RDRCRRP23,Democratic Republic of the Congo Regional Refugee Response Plan 2023,ZMB,6
+2023,1120,RDJIETHSOM23,Regional Migrant Response Plan for the Horn of Africa and Yemen 2023,DJI,3
+2023,1120,RDJIETHSOM23,Regional Migrant Response Plan for the Horn of Africa and Yemen 2023,ETH,3
+2023,1120,RDJIETHSOM23,Regional Migrant Response Plan for the Horn of Africa and Yemen 2023,SOM,3
+2023,1121,HHTI23,Haïti Plan de Réponse Humanitaire 2023,HTI,1
+2023,1122,HMLI23,Mali Plan de Réponse Humanitaire 2023,MLI,1
+2023,1124,HUKR23,Ukraine Humanitarian Response Plan 2023,UKR,1
+2023,1125,RETHKENUGA23,South Sudan Regional Refugee Response Plan 2023,ETH,3
+2023,1125,RETHKENUGA23,South Sudan Regional Refugee Response Plan 2023,KEN,3
+2023,1125,RETHKENUGA23,South Sudan Regional Refugee Response Plan 2023,UGA,3
+2023,1127,RUKRN23,Ukraine Situation Regional Refugee Response Plan 2023,BGR,10
+2023,1127,RUKRN23,Ukraine Situation Regional Refugee Response Plan 2023,CZE,10
+2023,1127,RUKRN23,Ukraine Situation Regional Refugee Response Plan 2023,EST,10
+2023,1127,RUKRN23,Ukraine Situation Regional Refugee Response Plan 2023,HUN,10
+2023,1127,RUKRN23,Ukraine Situation Regional Refugee Response Plan 2023,LTU,10
+2023,1127,RUKRN23,Ukraine Situation Regional Refugee Response Plan 2023,LVA,10
+2023,1127,RUKRN23,Ukraine Situation Regional Refugee Response Plan 2023,MDA,10
+2023,1127,RUKRN23,Ukraine Situation Regional Refugee Response Plan 2023,POL,10
+2023,1127,RUKRN23,Ukraine Situation Regional Refugee Response Plan 2023,ROU,10
+2023,1127,RUKRN23,Ukraine Situation Regional Refugee Response Plan 2023,SVK,10
+2023,1126,RSYR23,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2023,EGY,5
+2023,1126,RSYR23,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2023,IRQ,5
+2023,1126,RSYR23,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2023,JOR,5
+2023,1126,RSYR23,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2023,LBN,5
+2023,1126,RSYR23,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2023,TUR,5
+2023,1128,HETH23,Ethiopia Humanitarian Response Plan 2023,ETH,1
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,ABW,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,ARG,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,BOL,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,BRA,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,CHL,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,COL,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,CRI,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,CUW,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,DOM,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,ECU,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,GUY,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,MEX,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,PAN,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,PER,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,PRY,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,TTO,17
+2023,1129,RREG23,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,URY,17
+2023,1130,HCAF23,République Centrafricaine Plan de Réponse Humanitaire 2023,CAF,1
+2023,1131,HMOZ23,Mozambique Humanitarian Response Plan 2023,MOZ,1
+2023,1132,HMMR23,Myanmar Humanitarian Response Plan 2023,MMR,1
+2023,1133,HSOM23,Somalia Humanitarian Response Plan 2023,SOM,1
+2023,1134,OLBN23,Lebanon Emergency Response Plan 2023,LBN,1
+2023,1135,HVEN23,Venezuela Plan de Respuesta Humanitaria 2023,VEN,1
+2023,1136,FMDG23,Madagascar Grand Sud and Grand Sud-Est Flash Appeal 2023,MDG,1
+2023,1137,FKEN23,Kenya Drought Response Plan 2023,KEN,1
+2023,1138,HSLV23,El Salvador Plan de Respuesta Humanitaria 2023,SLV,1
+2023,1139,HGTM23,Guatemala Plan de Respuesta Humanitaria 2023,GTM,1
+2023,1140,OPAK23,Pakistan Floods Response Plan 2023,PAK,1
+2023,1141,HTCD23,Tchad Plan de Réponse Humanitaire 2023,TCD,1
+2023,1142,HCOL23,Colombia Plan de Respuesta Humanitaria 2023,COL,1
+2023,1143,RBGD23,Rohingya Humanitarian Crisis Joint Response Plan 2023,BGD,1
+2023,1144,HHND23,Honduras Plan de Respuesta Humanitaria 2023,HND,1
+2023,1145,HNER23,Niger Plan de Réponse Humanitaire 2023,NER,1
+2023,1148,HBDI23,Burundi Plan de Réponse Humanitaire 2023,BDI,1
+2023,1149,FSYR23,Syria Earthquake Flash Appeal 2023,SYR,1
+2023,1150,FTUR23,Türkiye Earthquake Flash Appeal 2023,TUR,1
+2023,1151,FMWI23,Malawi Cholera and Floods Flash Appeal 2023,MWI,1
+2023,1152,OMNG2223,Mongolia Dzud Early Action and Response Plan 2023,MNG,1
+2023,1153,OMOZ23,"Mozambique Cyclone Freddy, Floods and Cholera Response Plan 2023",MOZ,1
+2023,1154,RRSDN23,Sudan Emergency: Regional Refugee Response Plan 2023,EGY,2
+2023,1154,RRSDN23,Sudan Emergency: Regional Refugee Response Plan 2023,ETH,2
+2023,1184,FLBY23,Libya Flood Response Flash Appeal 2023,LBY,1
+2023,1186,FPSE23,Escalation of Hostilities in the OPT Flash Appeal 2023,PSE,1
+2023,1123,HSDN23,Sudan Humanitarian Response Plan 2023,SDN,1
+2024,1156,FPSE24,Escalation of Hostilities in the OPT Flash Appeal 2024,PSE,1
+2024,1157,HSSD24,South Sudan Humanitarian Needs and Response Plan 2024,SSD,1
+2024,1158,HVEN24,Venezuela Plan de Respuesta Humanitaria 2024,VEN,1
+2024,1159,HCMR24,Cameroon Humanitarian Response Plan 2024,CMR,1
+2024,1160,HMMR24,Myanmar Humanitarian Needs and Response Plan 2024,MMR,1
+2024,1162,RBGD24,Rohingya Humanitarian Crisis Joint Response Plan 2024,BGD,1
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,ABW,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,ARG,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,BOL,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,BRA,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,CHL,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,COL,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,CRI,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,CUW,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,DOM,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,ECU,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,GUY,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,MEX,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,PAN,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,PER,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,PRY,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,TTO,17
+2024,1163,RREG24,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,URY,17
+2024,1164,RDRC_RRP24,Democratic Republic of the Congo Regional Refugee Response Plan 2024,AGO,7
+2024,1164,RDRC_RRP24,Democratic Republic of the Congo Regional Refugee Response Plan 2024,BDI,7
+2024,1164,RDRC_RRP24,Democratic Republic of the Congo Regional Refugee Response Plan 2024,COG,7
+2024,1164,RDRC_RRP24,Democratic Republic of the Congo Regional Refugee Response Plan 2024,RWA,7
+2024,1164,RDRC_RRP24,Democratic Republic of the Congo Regional Refugee Response Plan 2024,TZA,7
+2024,1164,RDRC_RRP24,Democratic Republic of the Congo Regional Refugee Response Plan 2024,UGA,7
+2024,1164,RDRC_RRP24,Democratic Republic of the Congo Regional Refugee Response Plan 2024,ZMB,7
+2024,1165,RRHOAY24,Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2024,DJI,5
+2024,1165,RRHOAY24,Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2024,ETH,5
+2024,1165,RRHOAY24,Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2024,KEN,5
+2024,1165,RRHOAY24,Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2024,SOM,5
+2024,1165,RRHOAY24,Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2024,TZA,5
+2024,1166,RAFG_RRP24,Afghanistan Situation Regional Refugee Response Plan 2024,IRN,2
+2024,1166,RAFG_RRP24,Afghanistan Situation Regional Refugee Response Plan 2024,PAK,2
+2024,1167,RUKRN24,Ukraine Situation Regional Refugee Response Plan 2024,BGR,10
+2024,1167,RUKRN24,Ukraine Situation Regional Refugee Response Plan 2024,CZE,10
+2024,1167,RUKRN24,Ukraine Situation Regional Refugee Response Plan 2024,EST,10
+2024,1167,RUKRN24,Ukraine Situation Regional Refugee Response Plan 2024,HUN,10
+2024,1167,RUKRN24,Ukraine Situation Regional Refugee Response Plan 2024,LTU,10
+2024,1167,RUKRN24,Ukraine Situation Regional Refugee Response Plan 2024,LVA,10
+2024,1167,RUKRN24,Ukraine Situation Regional Refugee Response Plan 2024,MDA,10
+2024,1167,RUKRN24,Ukraine Situation Regional Refugee Response Plan 2024,POL,10
+2024,1167,RUKRN24,Ukraine Situation Regional Refugee Response Plan 2024,ROU,10
+2024,1167,RUKRN24,Ukraine Situation Regional Refugee Response Plan 2024,SVK,10
+2024,1168,RSYR24,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2024,EGY,5
+2024,1168,RSYR24,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2024,IRQ,5
+2024,1168,RSYR24,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2024,JOR,5
+2024,1168,RSYR24,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2024,LBN,5
+2024,1168,RSYR24,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2024,TUR,5
+2024,1169,RETHKENUGA24,South Sudan Regional Refugee Response Plan 2024,ETH,3
+2024,1169,RETHKENUGA24,South Sudan Regional Refugee Response Plan 2024,KEN,3
+2024,1169,RETHKENUGA24,South Sudan Regional Refugee Response Plan 2024,UGA,3
+2024,1170,RRSDN24,Sudan Emergency: Regional Refugee Response Plan 2024,CAF,5
+2024,1170,RRSDN24,Sudan Emergency: Regional Refugee Response Plan 2024,EGY,5
+2024,1170,RRSDN24,Sudan Emergency: Regional Refugee Response Plan 2024,ETH,5
+2024,1170,RRSDN24,Sudan Emergency: Regional Refugee Response Plan 2024,LBY,5
+2024,1170,RRSDN24,Sudan Emergency: Regional Refugee Response Plan 2024,UGA,5
+2024,1171,HCAF24,République Centrafricaine Plan de Réponse Humanitaire 2024,CAF,1
+2024,1172,HSLV24,El Salvador Plan de Respuesta Humanitaria 2024,SLV,1
+2024,1173,HGTM24,Guatemala Plan de Respuesta Humanitaria 2024,GTM,1
+2024,1174,HHND24,Honduras Necesidades Humanitarias y Plan de Respuesta 2024,HND,1
+2024,1175,HSYR24,Syrian Arab Republic Humanitarian Response Plan 2024,SYR,1
+2024,1177,HUKR24,Ukraine Humanitarian Needs and Response Plan 2024,UKR,1
+2024,1178,HHTI24,Haïti Besoins Humanitaires et Plan de Réponse 2024,HTI,1
+2024,1179,HBFA24,Burkina Faso Plan de Réponse Humanitaire 2024,BFA,1
+2024,1180,HSOM24,Somalia Humanitarian Needs and Response Plan 2024,SOM,1
+2024,1181,HCOL24,Colombia Plan de Respuesta a Prioridades Comunitarias Colombia 2024 - 2025,COL,1
+2024,1183,HMOZ24,Mozambique Humanitarian Needs and Response Plan 2024,MOZ,1
+2024,1185,HAFG24,Afghanistan Humanitarian Needs and Response Plan 2024,AFG,1
+2024,1187,HCOD24,République Démocratique du Congo Plan de Réponse Humanitaire 2024,COD,1
+2024,1188,HSDN24,Sudan Humanitarian Needs and Response Plan 2024,SDN,1
+2024,1189,HNER24,Niger Besoins Humanitaires et Plan de Réponse 2024,NER,1
+2024,1190,HNGA24,Nigeria Humanitarian Response Plan 2024,NGA,1
+2024,1191,FMDG24,Madagascar Grand Sud and Grand Sud-Est Flash Appeal 2024,MDG,1
+2024,1192,HTCD24,Tchad Besoins Humanitaires et Plan de Réponse 2024,TCD,1
+2024,1193,HYEM24,Yemen Humanitarian Response Plan 2024,YEM,1
+2024,1194,HMLI24,Mali Besoins Humanitaires et Plan de Réponse 2024,MLI,1
+2024,1195,HETH24,Ethiopia Humanitarian Response Plan 2024,ETH,1
+2024,1196,FLBY24,Libya Flood Response Flash Appeal 2024,LBY,1
+2024,1197,OMNG2324,Mongolia Dzud Response Plan 2024,MNG,1
+2024,1198,FZMB24,Zambia Drought Flash Appeal 2024,ZMB,1
+2024,1199,FZWE24,Zimbabwe Drought Flash Appeal 2024,ZWE,1
+2024,1200,OBDI24,Burundi Plan de Réponse Inondations et Montée du Lac Tanganyika (Effets El-Niño) 2024,BDI,1
+2024,1201,OBGD24,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,BGD,1
+2024,1202,FFA24,Grenada Hurricane Beryl Flash Appeal 2024,GRD,1
+2024,1204,FVCT24,Saint Vincent and The Grenadines Hurricane Beryl Flash Appeal 2024,VCT,1
+2024,1206,FMWI24,Malawi Drought Response Flash Appeal 2024,MWI,1
+2024,1207,FMOZ24,Mozambique Drought Flash Appeal 2024,MOZ,1
+2024,1209,OVNM24,Viet Nam 24-25 Joint Response Plan for Typhoon Yagi and Floods 2024,VNM,1
+2024,1210,FLBN24,Lebanon Flash Appeal 2024,LBN,1
+2024,1265,ONPL24,Nepal Humanitarian Needs and Priorities Floods Response Plan 2024,NPL,1
+2024,1282,OSYR24,Inter-Agency Emergency Appeal for the Influx from Lebanon to Syria 2024,SYR,1
+2024,1324,OPHL24,Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2024,PHL,1
+2025,1208,HCOL25,Colombia Necesidades Humanitarias y Plan de Respuesta 2025,COL,1
+2025,1211,RIRNPAK25,Afghanistan Situation Regional Refugee Response Plan 2025,IRN,2
+2025,1211,RIRNPAK25,Afghanistan Situation Regional Refugee Response Plan 2025,PAK,2
+2025,1212,RBGD25,Rohingya Humanitarian Crisis Joint Response Plan 2025,BGD,1
+2025,1214,RRHOAY25,Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2025,DJI,5
+2025,1214,RRHOAY25,Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2025,ETH,5
+2025,1214,RRHOAY25,Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2025,KEN,5
+2025,1214,RRHOAY25,Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2025,SOM,5
+2025,1214,RRHOAY25,Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2025,TZA,5
+2025,1213,RDRC_RRP25,Democratic Republic of the Congo Regional Refugee Response Plan 2025,AGO,7
+2025,1213,RDRC_RRP25,Democratic Republic of the Congo Regional Refugee Response Plan 2025,BDI,7
+2025,1213,RDRC_RRP25,Democratic Republic of the Congo Regional Refugee Response Plan 2025,COG,7
+2025,1213,RDRC_RRP25,Democratic Republic of the Congo Regional Refugee Response Plan 2025,RWA,7
+2025,1213,RDRC_RRP25,Democratic Republic of the Congo Regional Refugee Response Plan 2025,TZA,7
+2025,1213,RDRC_RRP25,Democratic Republic of the Congo Regional Refugee Response Plan 2025,UGA,7
+2025,1213,RDRC_RRP25,Democratic Republic of the Congo Regional Refugee Response Plan 2025,ZMB,7
+2025,1215,RETHKENUGA25,South Sudan Regional Refugee Response Plan 2025,ETH,3
+2025,1215,RETHKENUGA25,South Sudan Regional Refugee Response Plan 2025,KEN,3
+2025,1215,RETHKENUGA25,South Sudan Regional Refugee Response Plan 2025,UGA,3
+2025,1217,RSYR25,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2025,EGY,4
+2025,1217,RSYR25,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2025,JOR,4
+2025,1217,RSYR25,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2025,LBN,4
+2025,1217,RSYR25,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2025,TUR,4
+2025,1218,RUKRN25,Ukraine Situation Regional Refugee Response Plan 2025,BGR,10
+2025,1218,RUKRN25,Ukraine Situation Regional Refugee Response Plan 2025,CZE,10
+2025,1218,RUKRN25,Ukraine Situation Regional Refugee Response Plan 2025,EST,10
+2025,1218,RUKRN25,Ukraine Situation Regional Refugee Response Plan 2025,HUN,10
+2025,1218,RUKRN25,Ukraine Situation Regional Refugee Response Plan 2025,LTU,10
+2025,1218,RUKRN25,Ukraine Situation Regional Refugee Response Plan 2025,LVA,10
+2025,1218,RUKRN25,Ukraine Situation Regional Refugee Response Plan 2025,MDA,10
+2025,1218,RUKRN25,Ukraine Situation Regional Refugee Response Plan 2025,POL,10
+2025,1218,RUKRN25,Ukraine Situation Regional Refugee Response Plan 2025,ROU,10
+2025,1218,RUKRN25,Ukraine Situation Regional Refugee Response Plan 2025,SVK,10
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,ABW,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,ARG,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,BOL,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,BRA,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,CHL,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,COL,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,CRI,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,CUW,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,DOM,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,ECU,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,GUY,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,MEX,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,PAN,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,PER,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,PRY,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,TTO,17
+2025,1219,RREG25,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,URY,17
+2025,1220,HSDN25,Sudan Humanitarian Needs and Response Plan 2025,SDN,1
+2025,1216,RRSDN25,Sudan Emergency: Regional Refugee Response Plan 2025,EGY,4
+2025,1216,RRSDN25,Sudan Emergency: Regional Refugee Response Plan 2025,ETH,4
+2025,1216,RRSDN25,Sudan Emergency: Regional Refugee Response Plan 2025,LBY,4
+2025,1216,RRSDN25,Sudan Emergency: Regional Refugee Response Plan 2025,UGA,4
+2025,1221,HSOM25,Somalia Humanitarian Needs and Response Plan 2025,SOM,1
+2025,1223,HSSD25,South Sudan Humanitarian Needs and Response Plan 2025,SSD,1
+2025,1222,HMLI25,Mali Besoins Humanitaires et Plan de Réponse 2025,MLI,1
+2025,1256,HCAF25,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,CAF,1
+2025,1257,HHTI25,Haiti Besoins Humanitaires et Plan de Réponse 2025,HTI,1
+2025,1261,HCOD25,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,COD,1
+2025,1259,HBFA25,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,BFA,1
+2025,1260,HTCD25,Tchad Besoins Humanitaires et Plan de Réponse 2025,TCD,1
+2025,1262,HYEM25,Yemen Humanitarian Needs and Response Plan 2025,YEM,1
+2025,1263,HAFG25,Afghanistan Humanitarian Needs and Response Plan 2025,AFG,1
+2025,1264,HNER25,Niger Besoins Humanitaires et Plan de Réponse 2025,NER,1
+2025,1266,HCMR25,Cameroon Humanitarian Response Plan 2025,CMR,1
+2025,1267,HMOZ25,Mozambique Humanitarian Needs and Response Plan 2025,MOZ,1
+2025,1269,HGTM25,Guatemala Necesidades Humanitarias y Plan de Respuesta 2025,GTM,1
+2025,1270,HHND25,Honduras Necesidades Humanitarias y Plan de Respuesta 2025,HND,1
+2025,1271,HUKR25,Ukraine Humanitarian Needs and Response Plan 2025,UKR,1
+2025,1273,FPSE25,Escalation of Hostilities in the OPT Flash Appeal 2025,PSE,1
+2025,1268,HSLV25,El Salvador Necesidades Humanitarias y Plan de Respuesta 2025,SLV,1
+2025,1275,HMMR25b,Myanmar Original Humanitarian Needs and Response Plan 2025,MMR,1
+2025,1277,HVEN25,Venezuela Plan de Respuesta Humanitaria 2025,VEN,1
+2025,1278,FZMB25,Zambia Drought Flash Appeal 2025,ZMB,1
+2025,1274,HNGA25,Nigeria Humanitarian Needs and Response Plan 2025,NGA,1
+2025,1280,FZWE25,Zimbabwe Drought Flash Appeal 2025,ZWE,1
+2025,1281,FMWI25,Malawi Drought Response Flash Appeal 2025,MWI,1
+2025,1283,OVNM25b,Viet Nam 24-25 Joint Response Plan for Typhoon Yagi and Floods 2025,VNM,1
+2025,1284,OBGD25,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2025,BGD,1
+2025,1285,FMOZ25,Mozambique Drought Flash Appeal 2025,MOZ,1
+2025,1286,FLBN25,Lebanon Flash Appeal 2025,LBN,1
+2025,1325,OPHL25,Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025,PHL,1
+2025,1399,HMMR25a,Myanmar Earthquake HNRP Flash Addendum 2025,MMR,1
+2025,1431,OPAK25,Pakistan Floods Support Plan 2025,PAK,1
+2025,1364,FMOZ25a,Mozambique Tropical Cyclones Flash Appeal 2025,MOZ,1
+2025,1465,OVNM25a,Viet Nam 25-26 Joint Response Plan Multiple Typhoons and Floods 2025,VNM,1
+2025,1602,OCUB25,Cuba Plan of Action 2025 – Response to Hurricane Melissa,CUB,1
+2025,1276,FSYR25,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,SYR,1

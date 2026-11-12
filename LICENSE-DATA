@@ -1,0 +1,31 @@
+Data, results and charts: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Copyright (c) 2026 Umutcan Yüksel, PRISM (Protection, Risk and Impact Severity Monitor), https://www.prismonitor.eu
+
+CC BY-SA 4.0 applies to PRISM's compilation, selection, harmonisation and computed fields in data/, and to
+results/ and charts/. Values taken from the sources below remain under each source's own terms and may be
+obtained from the originals under those terms.
+
+Source                                      Terms                                                      Files
+OCHA HPC plans (people in need, targeted,   CC BY (HDX publication of the GHO datasets)                hpc_fts_plans, fts_plan_history
+  requirements)
+OCHA Financial Tracking Service             FTS Terms of Use, attribution; https://fts.unocha.org/     hpc_fts_plans, fts_plan_donors,
+                                              content/terms-use                                          protection_cluster
+INFORM Severity Index (ACAPS, JRC)          CC BY (HDX: inform-global-crisis-severity-index)           inform_severity_crisis_month
+INFORM Risk Index (European Commission JRC) CC BY 4.0                                                  inform_risk
+IDMC Global Internal Displacement Database  CC BY 3.0 IGO                                              idmc_gidd
+GRFC (FSIN and GRFC partners)               CC BY (HDX: fsin-grfc)                                     grfc_phase3plus
+CERF allocations (OCHA)                     CC BY-IGO (HDX: cerf-allocations)                          cerf_allocations
+Eurostat (migr_asyappctza)                  Commission reuse policy, Decision 2011/833/EU,             eurostat_asylum_first_time_eu27
+                                              source acknowledged
+ReliefWeb API (OCHA)                        Report counts only, no content reproduced                  reliefweb_counts
+CEPII GeoDist                               Etalab Open Licence 2.0                                    colonial_links_cepii, iso2_iso3_cepii
+DG ECHO GGOPHA staff working documents      Commission reuse policy, Decision 2011/833/EU              echo_forgotten_crises
+ACLED                                       Not redistributed (ACLED Terms of Use); rebuilt locally by scripts/05_fetch_acled.py
+
+Attribution for amended or combined FTS data, in the form FTS prescribes:
+"PRISM, based on Financial Tracking Service (FTS), 11 November 2026, https://fts.unocha.org/".
+CEPII: Mayer, T. & Zignago, S. (2011), Notes on CEPII's distances measures: the GeoDist Database, CEPII Working Paper 2011-25.
+Eurostat: Eurostat, migr_asyappctza, accessed 11 November 2026.
+ACLED: ACLED, accessed 12 November 2026.

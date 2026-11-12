@@ -1,0 +1,226 @@
+Common sample for the nested models: 110 country-years, 34 countries, 2022-2025
+
+================ log funding received ================
+
+### M1 people in need: log funding received  N=110  countries=34  R2=0.53  adj. R2=0.53
+                     coef     se    p
+log people in need  1.094  0.132  0.0
+
+### M2 + INFORM Severity: log funding received  N=110  countries=34  R2=0.65  adj. R2=0.64
+                     coef     se      p
+log people in need  0.420  0.239  0.078
+INFORM Severity     1.491  0.519  0.004
+
+### M3 + other needs measures: log funding received  N=110  countries=34  R2=0.72  adj. R2=0.70
+                                          coef     se      p
+log people in need                       0.566  0.222  0.011
+INFORM Severity                          0.786  0.495  0.112
+log ACLED political-violence fatalities  0.292  0.091  0.001
+log new conflict displacement (IDMC)    -0.005  0.030  0.875
+log new disaster displacement (IDMC)     0.035  0.036  0.339
+log people in IPC/CH Phase 3+ (GRFC)    -0.132  0.119  0.269
+log population                          -0.142  0.158  0.369
+
+### M4 + non-needs factors: log funding received  N=110  countries=34  R2=0.82  adj. R2=0.80
+                                                    coef     se      p
+log people in need                                 0.405  0.173  0.020
+INFORM Severity                                    0.117  0.331  0.724
+log ACLED political-violence fatalities            0.162  0.094  0.086
+log new conflict displacement (IDMC)               0.016  0.039  0.688
+log new disaster displacement (IDMC)               0.025  0.028  0.376
+log people in IPC/CH Phase 3+ (GRFC)              -0.111  0.105  0.290
+log population                                    -0.193  0.141  0.170
+log first-time EU asylum applicants                0.013  0.080  0.876
+log ReliefWeb reports, previous year               0.971  0.270  0.000
+years in a row under an appeal                     0.030  0.027  0.262
+share of plan funding from former colonial powers -0.107  1.434  0.940
+US share of plan funding                           0.818  0.339  0.016
+flash appeal, no HRP that year                     0.831  0.272  0.002
+
+### M5 M4 + year effects: log funding received  N=110  countries=34  R2=0.85  adj. R2=0.83
+                                                    coef     se      p
+log people in need                                 0.448  0.170  0.008
+INFORM Severity                                    0.076  0.302  0.802
+log ACLED political-violence fatalities            0.138  0.092  0.136
+log new conflict displacement (IDMC)               0.037  0.032  0.249
+log new disaster displacement (IDMC)               0.034  0.026  0.192
+log people in IPC/CH Phase 3+ (GRFC)              -0.121  0.106  0.254
+log population                                    -0.162  0.145  0.266
+log first-time EU asylum applicants                0.027  0.074  0.719
+log ReliefWeb reports, previous year               0.828  0.289  0.004
+years in a row under an appeal                     0.032  0.024  0.194
+share of plan funding from former colonial powers  0.215  1.481  0.884
+US share of plan funding                          -0.271  0.616  0.661
+flash appeal, no HRP that year                     0.794  0.240  0.001
+
+================ log funding per person in need ================
+
+### M1 people in need: log funding per person in need  N=110  countries=34  R2=0.01  adj. R2=-0.00
+                     coef     se      p
+log people in need  0.094  0.132  0.478
+
+### M2 + INFORM Severity: log funding per person in need  N=110  countries=34  R2=0.26  adj. R2=0.24
+                     coef     se      p
+log people in need -0.580  0.239  0.015
+INFORM Severity     1.491  0.519  0.004
+
+### M3 + other needs measures: log funding per person in need  N=110  countries=34  R2=0.41  adj. R2=0.37
+                                          coef     se      p
+log people in need                      -0.434  0.222  0.051
+INFORM Severity                          0.786  0.495  0.112
+log ACLED political-violence fatalities  0.292  0.091  0.001
+log new conflict displacement (IDMC)    -0.005  0.030  0.875
+log new disaster displacement (IDMC)     0.035  0.036  0.339
+log people in IPC/CH Phase 3+ (GRFC)    -0.132  0.119  0.269
+log population                          -0.142  0.158  0.369
+
+### M4 + non-needs factors: log funding per person in need  N=110  countries=34  R2=0.63  adj. R2=0.58
+                                                    coef     se      p
+log people in need                                -0.595  0.173  0.001
+INFORM Severity                                    0.117  0.331  0.724
+log ACLED political-violence fatalities            0.162  0.094  0.086
+log new conflict displacement (IDMC)               0.016  0.039  0.688
+log new disaster displacement (IDMC)               0.025  0.028  0.376
+log people in IPC/CH Phase 3+ (GRFC)              -0.111  0.105  0.290
+log population                                    -0.193  0.141  0.170
+log first-time EU asylum applicants                0.013  0.080  0.876
+log ReliefWeb reports, previous year               0.971  0.270  0.000
+years in a row under an appeal                     0.030  0.027  0.262
+share of plan funding from former colonial powers -0.107  1.434  0.940
+US share of plan funding                           0.818  0.339  0.016
+flash appeal, no HRP that year                     0.831  0.272  0.002
+
+### M5 M4 + year effects: log funding per person in need  N=110  countries=34  R2=0.69  adj. R2=0.63
+                                                    coef     se      p
+log people in need                                -0.552  0.170  0.001
+INFORM Severity                                    0.076  0.302  0.802
+log ACLED political-violence fatalities            0.138  0.092  0.136
+log new conflict displacement (IDMC)               0.037  0.032  0.249
+log new disaster displacement (IDMC)               0.034  0.026  0.192
+log people in IPC/CH Phase 3+ (GRFC)              -0.121  0.106  0.254
+log population                                    -0.162  0.145  0.266
+log first-time EU asylum applicants                0.027  0.074  0.719
+log ReliefWeb reports, previous year               0.828  0.289  0.004
+years in a row under an appeal                     0.032  0.024  0.194
+share of plan funding from former colonial powers  0.215  1.481  0.884
+US share of plan funding                          -0.271  0.616  0.661
+flash appeal, no HRP that year                     0.794  0.240  0.001
+
+================ share of requirements funded ================
+
+### M1 people in need: share of requirements funded  N=110  countries=34  R2=0.00  adj. R2=-0.01
+                     coef     se      p
+log people in need -0.015  0.033  0.661
+
+### M2 + INFORM Severity: share of requirements funded  N=110  countries=34  R2=0.00  adj. R2=-0.01
+                    coef     se      p
+log people in need -0.01  0.063  0.873
+INFORM Severity    -0.01  0.141  0.945
+
+### M3 + other needs measures: share of requirements funded  N=110  countries=34  R2=0.12  adj. R2=0.06
+                                          coef     se      p
+log people in need                      -0.005  0.052  0.927
+INFORM Severity                         -0.086  0.148  0.562
+log ACLED political-violence fatalities  0.064  0.023  0.005
+log new conflict displacement (IDMC)    -0.014  0.006  0.024
+log new disaster displacement (IDMC)     0.009  0.009  0.328
+log people in IPC/CH Phase 3+ (GRFC)    -0.010  0.022  0.633
+log population                          -0.043  0.040  0.279
+
+### M4 + non-needs factors: share of requirements funded  N=110  countries=34  R2=0.55  adj. R2=0.49
+                                                    coef     se      p
+log people in need                                -0.070  0.038  0.067
+INFORM Severity                                   -0.124  0.076  0.101
+log ACLED political-violence fatalities            0.050  0.015  0.001
+log new conflict displacement (IDMC)              -0.013  0.006  0.035
+log new disaster displacement (IDMC)              -0.001  0.008  0.893
+log people in IPC/CH Phase 3+ (GRFC)              -0.018  0.017  0.292
+log population                                    -0.036  0.028  0.206
+log first-time EU asylum applicants               -0.016  0.010  0.109
+log ReliefWeb reports, previous year               0.208  0.040  0.000
+years in a row under an appeal                     0.010  0.004  0.013
+share of plan funding from former colonial powers  0.393  0.421  0.351
+US share of plan funding                           0.512  0.084  0.000
+flash appeal, no HRP that year                     0.343  0.057  0.000
+
+### M5 M4 + year effects: share of requirements funded  N=110  countries=34  R2=0.68  adj. R2=0.63
+                                                    coef     se      p
+log people in need                                -0.045  0.033  0.177
+INFORM Severity                                   -0.142  0.075  0.060
+log ACLED political-violence fatalities            0.042  0.015  0.006
+log new conflict displacement (IDMC)              -0.007  0.005  0.222
+log new disaster displacement (IDMC)               0.003  0.007  0.666
+log people in IPC/CH Phase 3+ (GRFC)              -0.025  0.016  0.111
+log population                                    -0.028  0.028  0.325
+log first-time EU asylum applicants               -0.012  0.009  0.187
+log ReliefWeb reports, previous year               0.167  0.033  0.000
+years in a row under an appeal                     0.010  0.003  0.003
+share of plan funding from former colonial powers  0.422  0.398  0.289
+US share of plan funding                           0.175  0.079  0.025
+flash appeal, no HRP that year                     0.325  0.041  0.000
+
+================ Within-country change (country and year effects) ================
+
+### within-country: log funding received  N=152  countries=36  R2=0.95  adj. R2=0.93
+                                          coef     se      p
+log people in need                       0.509  0.193  0.008
+INFORM Severity                          0.194  0.340  0.568
+log ACLED political-violence fatalities  0.215  0.087  0.013
+log new conflict displacement (IDMC)     0.012  0.024  0.628
+
+### within-country: share of requirements funded  N=152  countries=36  R2=0.79  adj. R2=0.71
+                                          coef     se      p
+log people in need                      -0.109  0.040  0.006
+INFORM Severity                          0.135  0.113  0.232
+log ACLED political-violence fatalities  0.035  0.021  0.096
+log new conflict displacement (IDMC)     0.006  0.008  0.419
+
+================ Path dependency ================
+
+### lfund ~ lfund_lag: log funding received  N=116  countries=34  R2=0.81  adj. R2=0.81
+                             coef     se    p
+log funding, previous year  0.941  0.046  0.0
+
+### lfund ~ lpin + sev: log funding received  N=116  countries=34  R2=0.61  adj. R2=0.60
+                     coef     se      p
+log people in need  0.350  0.232  0.131
+INFORM Severity     1.624  0.525  0.002
+
+### lfund ~ lfund_lag + lpin + sev: log funding received  N=116  countries=34  R2=0.82  adj. R2=0.81
+                             coef     se      p
+log funding, previous year  0.802  0.109  0.000
+log people in need          0.114  0.138  0.407
+INFORM Severity             0.277  0.165  0.093
+
+================ What people in need follows ================
+
+### across countries: lpin  N=139  countries=35  R2=0.81  adj. R2=0.79
+                                          coef     se      p
+log population                           0.290  0.115  0.012
+INFORM Severity                          1.097  0.166  0.000
+log ACLED political-violence fatalities  0.024  0.048  0.621
+log new conflict displacement (IDMC)    -0.051  0.019  0.006
+log new disaster displacement (IDMC)    -0.003  0.020  0.875
+log people in IPC/CH Phase 3+ (GRFC)     0.175  0.090  0.053
+
+### within-country: lpin  N=139  countries=35  R2=0.95  adj. R2=0.93
+                                          coef     se      p
+INFORM Severity                          0.439  0.288  0.127
+log ACLED political-violence fatalities  0.040  0.060  0.510
+log new conflict displacement (IDMC)    -0.013  0.015  0.412
+log people in IPC/CH Phase 3+ (GRFC)     0.308  0.088  0.000
+
+================ Forgotten-crisis flags and the following year ================
+
+### flags this year, outcome next year: cov_next  N=115  countries=33  R2=0.63  adj. R2=0.60
+                                          coef     se      p
+on ECHO's forgotten-crises list         -0.042  0.030  0.161
+CERF Underfunded Emergencies allocation -0.024  0.029  0.414
+
+### flags this year, outcome next year: lfpp_next  N=115  countries=33  R2=0.81  adj. R2=0.79
+                                          coef     se      p
+on ECHO's forgotten-crises list          0.076  0.102  0.457
+CERF Underfunded Emergencies allocation  0.013  0.070  0.849
+
+Median funding per person in need (USD), by ECHO flag: {0: 69.8, 1: 42.3}
+Median funding per person in need (USD), by CERF UFE allocation: {0: 53.3, 1: 54.5}

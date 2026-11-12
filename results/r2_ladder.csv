@@ -1,0 +1,16 @@
+outcome,outcome_label,model,r2,adj_r2,n
+lfund,log funding received,M1 people in need,0.5302527114757098,0.5259031995449294,110
+lfund,log funding received,M2 + INFORM Severity,0.647728593181963,0.6411440809049903,110
+lfund,log funding received,M3 + other needs measures,0.7185793623098615,0.6992661812919109,110
+lfund,log funding received,M4 + non-needs factors,0.8248752187508519,0.8011604046233631,110
+lfund,log funding received,M5 M4 + year effects,0.8514390399963626,0.8258801651570271,110
+lfpp,log funding per person in need,M1 people in need,0.008267573481123947,-0.0009151341718287576,110
+lfpp,log funding per person in need,M2 + INFORM Severity,0.2562831428481894,0.24238189318180048,110
+lfpp,log funding per person in need,M3 + other needs measures,0.4058635808932428,0.3650895129153281,110
+lfpp,log funding per person in need,M4 + non-needs factors,0.6302758344866435,0.5802090204067097,110
+lfpp,log funding per person in need,M5 M4 + year effects,0.6863574842268347,0.6323974815131719,110
+cov,share of requirements funded,M1 people in need,0.004143270407915289,-0.0050776252364559404,110
+cov,share of requirements funded,M2 + INFORM Severity,0.004366072723386294,-0.01424390722570923,110
+cov,share of requirements funded,M3 + other needs measures,0.12009597968554186,0.05971040966396146,110
+cov,share of requirements funded,M4 + non-needs factors,0.552774710760435,0.49221295284257727,110
+cov,share of requirements funded,M5 M4 + year effects,0.6836827800530634,0.6292626131804722,110

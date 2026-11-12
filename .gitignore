@@ -1,0 +1,7 @@
+data/restricted/*
+data/external/*
+!data/restricted/.gitkeep
+!data/external/.gitkeep
+__pycache__/
+*.pyc
+.DS_Store
